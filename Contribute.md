@@ -1,6 +1,6 @@
 # Contribute to the BEIC Project Based Learning Challenge Curricula
 
-The Built Environment Innovation Cooperative (BEIC) manages educational and collaborative efforts aimed at built environment related innovations as project repositories (like this one for SeaBit) in GitHub. 
+The Built Environment Innovation Cooperative (BEIC) manages educational and collaborative efforts aimed at built environment related innovations as project repositories (like this one) in GitHub. 
 
 Open Source projects in repositories managed by BEIC generally follow the "GitHub Guides" content on "Contributing to Open Source on GitHub".
 
