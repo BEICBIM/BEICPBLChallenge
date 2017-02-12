@@ -1,5 +1,7 @@
 # BEIC Project Based Learning Challenge
 
+![Blue Bedroom, Hous'Hill,  Designer:Charles Rennie Mackintosh (British, Glasgow, Scotland 1868–1928 London) Date:1904 Medium:Watercolor and graphite on paper Dimensions:H. 10, W. 11 inches (25.4 x 27.9 cm.) Classification:Drawings Credit Line:Purchase, Lila Acheson Wallace Gift, 1994 Accession Number:1994.322](http://metmuseum.org/art/collection/search/486390)
+
 A Challenge Curriculum for Project Based Learning Through Innovative Built Environment Project Development.
 
 The organization of this challenge curricula is inspired by the practical 7 phase model described by Amber Graeber on edutopia.org.  Buck Institute for Education is another source of information on quality project based learning experiences. 
