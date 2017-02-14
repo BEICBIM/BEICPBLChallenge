@@ -25,3 +25,5 @@ For an *extremely* successful outcome your team’s Integrated Project Delivery 
 See [Contribute.md](https://github.com/BEICBIM/BEICPBLChallenge/blob/master/Contribute.md) for information about contributing to this project repository.
 
 Content in the BEIC Project Based Learning Challenge repository is licensed as described in [License.md](https://github.com/BEICBIM/BEICPBLChallenge/blob/master/License.md).
+
+![The MET: Design for a Library in a Glasgow House](http://images.metmuseum.org/CRDImages/ma/original/DP206759.jpg)
