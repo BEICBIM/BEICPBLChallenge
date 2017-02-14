@@ -23,3 +23,9 @@ Content for each of these sections will be posted on the student project team's 
 During the Built Environment Innovation Challenge students may be working in one or more of these roles.  Mentors will work with students in school and on their project’s slack channel site as you develop expertise.  Students take some time to summarize on the first day what they think the individual and collective interests of the stakeholders on their project team are as they work together on a project. 
 
 **Mentor Action:** Facilitate this discussion among students.  If you haven’t already done so have students read and summarize an initial answer to the driving question in phase 1 and review & discuss the introduction to the culminating challenge of phase 2.   Enter the summarized business interests your students came up with on the project slack channel.  
+
+See [Contribute.md](https://github.com/BEICBIM/BEICPBLChallenge/blob/master/Contribute.md) for information about contributing to this project repository.
+
+Content in the BEIC Project Based Learning Challenge repository is licensed as described in [License.md](https://github.com/BEICBIM/BEICPBLChallenge/blob/master/License.md).
+
+![The MET: "National Defense"](http://images.metmuseum.org/CRDImages/ma/original/sf43.46.18.jpg)
