@@ -17,3 +17,7 @@ For a successful outcome you will need to present preliminary deliverables of a 
 For a very successful outcome, your team will translate your successful outcome into a draft Integrated Project Delivery (IPD) agreement to actually fund and execute your built environment solution.  
 
 For an extremely successful outcome your team’s Integrated Project Delivery Agreement will contain a specification that will foster efficient information exchange all the way through the long term performance measurement of your built environment solution.
+
+See [Contribute.md](https://github.com/BEICBIM/BEICPBLChallenge/blob/master/Contribute.md) for information about contributing to this project repository.
+
+Content in the BEIC Project Based Learning Challenge repository is licensed as described in [License.md](https://github.com/BEICBIM/BEICPBLChallenge/blob/master/License.md).
