@@ -1,3 +1,5 @@
+# Phase Two: A Built Environment Requirement & Opportunity for Innovation
+
 Your challenge as a Integrated Project Delivery Team is to plan and virtually develop a viable built environment solution that adresses the driving question and aspires to meet the expressed requirement.  Your team will consist of:
 
 1. Real property owner’s representatives (e.g. land, facilities, and infrastructure managers for public or private owners)
@@ -5,6 +7,8 @@ Your challenge as a Integrated Project Delivery Team is to plan and virtually de
 2. Designers (e.g. architects, engineers, planners, and artists)
 
 3. Constructors (e.g. construction managers and trades, engineers, landscapers, mechanical & electrical technicians, plumbers).  
+
+## For a Successful Outcome...
 
 For a successful outcome you will need to present preliminary deliverables of a built environment solution that:
 
