@@ -8,7 +8,7 @@ Built environment innovations, large or small, start with a expressed requiremen
 * When was the requirement identified or discovered?
 * Why is it a requirement?
 
-Students or members of the public can share 5W's about requirements on BEIC's requirements input form. This content informs the "driving question" that initiates a Built Environment Innovation Challenge:
+Students or members of the public can share 5W's about requirements on BEIC's requirements input form. This content informs **"the driving question"** that initiates a Built Environment Innovation Challenge:
 
 **What are three viable alternatives (choices or possible solutions) you think would meet the expressed requirement and what do you think makes them viable and preferable to a "do-nothing" alternative?**
 
