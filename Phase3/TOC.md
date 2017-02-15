@@ -8,11 +8,11 @@ There are key concepts in 3 broad categories of subject matter that we’ll need
   * Permitting authorities.
   * Members of the community and general public.
 2. Planning, Project Development, Design, and Delivery
-  * Open Source Methodology
-  * Integrated Design and Project Delivery
+  * Open Source Methodology.
+  * Integrated Design and Project Delivery.
 3. Built Environment Project and Asset Management 
-  * Built Environment Information Modelling and Workflow
-  * Life-cycle Information Exchange
+  * Built Environment Information Modelling and Workflow.
+  * Life-cycle Information Exchange.
 
 Content for each of these sections will be posted on the student project team's slack channel in order to facilitate input from mentor subject matter experts from the built environment industry, and the completion of the action items the student project team will need to do in order to develop expertise.
 
