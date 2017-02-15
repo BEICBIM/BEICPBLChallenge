@@ -8,7 +8,7 @@ There are key concepts in 3 broad categories of subject matter that we’ll need
   * Permitting authorities.
   * Members of the community and general public.
 2. Planning, Project Development, Design, and Delivery
-  * Open Source Methodology.
+  * [Open Source Methodology (germaine to the built environment)](https://opensource.com/life/16/5/6-open-source-architecture-projects).
   * Integrated Design and Project Delivery.
 3. Built Environment Project and Asset Management 
   * Built Environment Information Modelling and Workflow.
