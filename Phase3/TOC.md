@@ -4,7 +4,7 @@ There are key concepts in 3 broad categories of subject matter that we’ll need
 
 1. Key Stakeholders & Roles:
   * Owners, owners representatives, managers, and operators.
-  * Architecture, Construction, and Engineering Professionals and Technical Specialists.
+  * [Architecture](https://en.wikipedia.org/wiki/Architect), [Construction](https://en.wikipedia.org/wiki/Construction_management), and [Engineering](https://en.wikipedia.org/wiki/Construction_engineering) Professionals and Technical Specialists.
   * Permitting authorities.
   * Members of the community and general public.
 2. Planning, Project Development, Design, and Delivery
