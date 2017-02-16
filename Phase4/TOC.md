@@ -9,6 +9,8 @@ In order to complete this culminating challenge phase, the students presenting t
 * Compliance: Is the scope of the team's project permissible in the proposed location?  
 * Acheivability: Does the team's draft agreement support a collaborative and high performing project?  
 
+The panel will have an opportunity to ask questions about each of these elements as well as the team member's understanding of the basic Scientific, Technological, Engineering, Atristic, and Mathematical (STEAM) principles that undergird their proposed solution.  The panel will rate the project (1-10) on its overall presentation performance and students in their respecive individual roles (1-10) and contribution (1-10) on the team.  They will also take qualitative notes on the relative strengths and areas for improvement in the presentation.
+
 See [Contribute.md](https://github.com/BEICBIM/BEICPBLChallenge/blob/master/Contribute.md) for information about contributing to this project repository.
 
 ![The MET: Junkerngasse in Bern](http://images.metmuseum.org/CRDImages/ma/original/DT7772.jpg)
