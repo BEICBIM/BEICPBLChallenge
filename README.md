@@ -10,7 +10,7 @@ The organization of this challenge curricula is inspired by the practical 7 phas
   * Property owner/manager 
   * Designer/architect/engineer 
   * General contractor/builder/construction manager
-* Mentored students may work collaboratively doing Building Information Modelling (BIM) to envision solutions and prepare Integrated Project Delivery (IPD) agreements to execute them. 
+* Mentored students may work collaboratively doing Building Information Modelling (BIM) to envision solutions and prepare integrated collaborative execution agreements to deliver them. 
 
 The phases of a Built Environment Innovation Challenge are:
 
