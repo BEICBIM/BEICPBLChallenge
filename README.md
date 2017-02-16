@@ -18,7 +18,7 @@ The phases of a Built Environment Innovation Challenge are:
 * [Phase Two: A Built Environment Requirement & Opportunity for Innovation](https://github.com/BEICBIM/BEICPBLChallenge/blob/master/Phase2/TOC.md)
 * [Phase Three: Developing Subject Matter Expertise to Meet the Requirement](https://github.com/BEICBIM/BEICPBLChallenge/blob/master/Phase3/TOC.md)
 * [Phase Four: Design and Development of a Built Environment Project Proposal](https://github.com/BEICBIM/BEICPBLChallenge/blob/master/Phase4/TOC.md)
-* Phase Five: Debriefing the Built Environment Project Proposal
+* [Phase Five: Debriefing the Built Environment Project Proposal](https://github.com/BEICBIM/BEICPBLChallenge/blob/master/Phase5/TOC.md)
 * Phase Six: Responding to the Driving Question About The Built Environment
 * Phase Seven: Summative Assessment
 
