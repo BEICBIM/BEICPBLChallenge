@@ -9,7 +9,7 @@ There are key concepts in 3 broad categories of subject matter that we’ll need
   * Members of the community and general public.
 2. Planning, Project Development, Design, and Delivery
   * [Open Source Methodology (germaine to built environments)](https://opensource.com/life/16/5/6-open-source-architecture-projects).
-  * [Integrated Design and Project Delivery](https://en.wikipedia.org/wiki/Integrated_project_delivery).
+  * Integrated and Collaborative Design and Project Execution Agreements.
 3. Built Environment Project and Asset Management 
   * Built Environment Information Modelling and Workflow.
   * Life-cycle Information Exchange.
