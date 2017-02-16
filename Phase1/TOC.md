@@ -12,7 +12,7 @@ Students or members of the public can share 5W's about requirements on BEIC's re
 
 **What are three viable alternatives (choices or possible solutions) you think would meet the expressed requirement and what do you think makes them viable and preferable to a "do-nothing" alternative?**
 
-The first experience for all students participating in a Built Environment Innovation Challenge is to discuss, think about, and respond to the challenge question. Subject matter experts from built environment related professions and trades review the responses. They then assess the range of knowledge-levels among participating students, and plan a charrette for students (assuming roles such as property-owner/manager, designer/builder, or regulator/permitting-authority, etc.) to participate in during the culminating challenge phase of a Built Environment Innovation Challenge.
+The first experience for all students participating in a Built Environment Innovation Challenge is to capture (in written form) the expressed requirement.  After thinking about and discuss the expressed requirement, the students then write their initial responses to the challenge question.  Subject matter experts from built environment related professions and trades review these responses. They then assess the range of knowledge-levels among participating students, and plan a charrette for students (assuming roles such as property-owner/manager, designer/builder, or regulator/permitting-authority, etc.) to participate in during the culminating challenge phase of a Built Environment Innovation Challenge.
 
 See [Contribute.md](https://github.com/BEICBIM/BEICPBLChallenge/blob/master/Contribute.md) for information about contributing to this project repository.
 
