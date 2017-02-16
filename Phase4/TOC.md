@@ -4,7 +4,7 @@ Durning the previous (subject matter expertise development) phase, students gain
 
 See [Contribute.md](https://github.com/BEICBIM/BEICPBLChallenge/blob/master/Contribute.md) for information about contributing to this project repository.
 
-![.](http://images.metmuseum.org/CRDImages/ma/original/DT7772.jpg)
+![The MET: Junkerngasse in Bern](http://images.metmuseum.org/CRDImages/ma/original/DT7772.jpg)
 
 Content in the BEIC Project Based Learning Challenge repository is licensed as described in [License.md](https://github.com/BEICBIM/BEICPBLChallenge/blob/master/License.md).
 
