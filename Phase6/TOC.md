@@ -1,5 +1,7 @@
 # Phase Six: Responding to the Driving Question About The Built Environment
 
+Recall that when the students started this effort they considered that built environment innovations, large or small, start with a expressed requirement. In [Phase 1](https://github.com/BEICBIM/BEICPBLChallenge/blob/master/Phase1/TOC.md), they captured this requirement in writing and then were asked a driving question about what solutions alternatives they might plan, develop, and implement.  In this phase students take a moment to write a concise response to that same expressed requirement and driving question again.  When the students have completed this response, they compare their responses and summarize the differences in from initial response in writing.
+
 See [Contribute.md](https://github.com/BEICBIM/BEICPBLChallenge/blob/master/Contribute.md) for information about contributing to this project repository.
 
 ![The MET: Portrait of Jan Toorop](http://images.metmuseum.org/CRDImages/ma/original/dp147573.jpg)
