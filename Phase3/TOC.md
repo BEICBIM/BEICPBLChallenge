@@ -2,7 +2,7 @@
 
 There are key concepts in 3 broad categories of subject matter that we’ll need to develop in phase 3 of the Built Environment Innovation Challenge in order to successfully do our culminating challenge in phase 4.  These broad subject areas are:
 
-1. Key Stakeholders & Roles:
+1. [Key Stakeholders & Roles:](https://github.com/BEICBIM/BEICPBLChallenge/blob/master/Phase3/Stakeholders_Roles/TOC.md)
   * Owners, owners representatives, managers, and operators.
   * [Architecture](https://en.wikipedia.org/wiki/Architect), [Construction](https://en.wikipedia.org/wiki/Construction_management), and [Engineering](https://en.wikipedia.org/wiki/Construction_engineering) Professionals and Technical Specialists.
   * Permitting authorities.
