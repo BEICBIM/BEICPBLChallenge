@@ -22,7 +22,7 @@ The phases of a Built Environment Innovation Challenge are:
 * [Phase Six: Responding to the Driving Question About The Built Environment](https://github.com/BEICBIM/BEICPBLChallenge/blob/master/Phase6/TOC.md)
 * [Phase Seven: Summative Assessment](https://github.com/BEICBIM/BEICPBLChallenge/blob/master/Phase7/TOC.md)
 
-The content of this challnge curriculum is also inspired by the National Institute of Building Sciences' Science Technology Engineering and Math (STEM) program for Sustainable Facilities and Infrastructure in Constrained Environments (SuFICE) as well as Integrated Project Delivery resources and guidance from built environment industry professionals.
+The content of this challange curriculum is also inspired by the National Institute of Building Sciences' Science Technology Engineering and Math (STEM) program for Sustainable Facilities and Infrastructure in Constrained Environments (SuFICE) as well as Integrated Project Delivery resources and guidance from built environment industry professionals.
 
 See [Contribute.md](https://github.com/BEICBIM/BEICPBLChallenge/blob/master/Contribute.md) for information about contributing to this project repository.
 
