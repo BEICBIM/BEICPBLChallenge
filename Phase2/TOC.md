@@ -1,6 +1,6 @@
 # Phase Two: A Built Environment Requirement & Opportunity for Innovation
 
-Your challenge as a Integrated Project Delivery Team is to plan and virtually develop a viable built environment solution that adresses the driving question and aspires to meet the expressed requirement.  Your team will consist of:
+The challenge for students on integrated collaborative project teams is to plan and virtually develop a viable built environment solution that addresses the driving question and aspires to meet the expressed requirement.  Teams will consist of:
 
 1. Real property owner’s representatives (e.g. land, facilities, and infrastructure managers for public or private owners)
 
