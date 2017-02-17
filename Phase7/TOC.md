@@ -9,7 +9,7 @@ The summative assessment is a measure of student learning and achievement of ove
 
 See [Contribute.md](https://github.com/BEICBIM/BEICPBLChallenge/blob/master/Contribute.md) for information about contributing to this project repository.
 
-![The MET:The School Master](http://images.metmuseum.org/CRDImages/dp/original/DP818218.jpg)
+![The MET:The School Master](http://images.metmuseum.org/CRDImages/dp/original/DP818278.jpg)
 
 Content in the BEIC Project Based Learning Challenge repository is licensed as described in [License.md](https://github.com/BEICBIM/BEICPBLChallenge/blob/master/License.md).
 
