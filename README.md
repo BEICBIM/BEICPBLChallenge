@@ -2,7 +2,7 @@
 
 A Challenge Curriculum for Project Based Learning Through Innovative Built Environment Project Development.
 
-The organization of this challenge curricula is inspired by the practical 7 phase model described by Amber Graeber on edutopia.org.  Buck Institute for Education is another source of information on quality project based learning experiences. 
+The organization of this challenge curricula is inspired by the [practical 7 phase model](https://www.edutopia.org/blog/practical-pbl-design-amber-graeber) described by Amber Graeber on edutopia.org.  [Buck Institute for Education](http://www.bie.org/about/what_pbl) is another source of information on quality project based learning experiences. 
 
 * Validation, planning, and development of sustainable, viable, built environments is a primary focus.
 * Mentored students attempt to solve engaging, real world problems that consider innovative built environment solutions.
