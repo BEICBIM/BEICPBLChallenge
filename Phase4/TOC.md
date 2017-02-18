@@ -5,7 +5,7 @@ During the previous (subject matter expertise development) phase, students gaine
 In order to complete this culminating challenge phase, the students presenting their proposed built environment solution's business case and model content to a panel of built environment industry subject matter experts, like the mentors they've already been working with.  During the presentation the panel will consider the team's:
 
 * Model Content: Is it robust enough for the panel to clearly visualize the built environment solution the team has proposed?  
-* Business Case: Does the team's project financial pro forma and supporting information support validity and viability?
+* Business Case: Does the team's project financial [pro forma](http://plannersweb.com/2013/12/proforma-101-getting-familiar-with-a-basic-tool-of-real-estate-analysis/) and supporting information support validity and viability?
 * Compliance: Is the scope of the team's project permissible in the proposed location?  
 * Achievability: Does the team's draft agreement support a collaborative and high performing project?  
 
