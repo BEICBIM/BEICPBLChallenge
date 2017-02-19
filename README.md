@@ -6,7 +6,7 @@ The organization of this challenge curricula is inspired by the [practical 7 pha
 
 * Validation, planning, and development of sustainable, viable, built environments is a primary focus.
 * Mentored students attempt to solve engaging, real world problems that consider innovative built environment solutions.
-*  Authentic roles that students take on include: 
+*  Authentic roles that students may take on during this project based learning experience include: 
   * Property owner/manager 
   * Designer/architect/engineer 
   * General contractor/builder/construction manager
