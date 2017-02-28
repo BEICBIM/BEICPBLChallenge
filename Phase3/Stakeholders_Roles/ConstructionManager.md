@@ -23,6 +23,16 @@ Recall that during the planning process, the construction manager establishes th
 * Measurable. The work included within the scope of the activity must be measurable in some objective way (e.g. % completed).
 * Significant. The activity must have an effect on the project's overall completion.
 
+When selcting activities, construction managers need to consider the following things:
+
+* Pay or Bid Items specifically broken out in either the bid or the progress payment schedule as line items.
+* Subcontractor items such as roofing, HVAC work, structural steel erection, etc.
+* Specification section included items such as masonry or concrete unless:
+*   there are instances where work included within a particular specification section will occur at widely separated intervals throughout the project; 
+*   and second certain phases of work, such as roofing, are controlled by multiple specification sections.
+
+
+
 • Planning vs. Scheduling
 • Why plan & schedule
 • What is an Activity?
