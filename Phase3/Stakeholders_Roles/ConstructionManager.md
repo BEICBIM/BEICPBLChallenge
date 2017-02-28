@@ -28,8 +28,8 @@ When selcting activities, construction managers need to consider the following t
 * Pay or Bid Items specifically broken out in either the bid or the progress payment schedule as line items.
 * Subcontractor items such as roofing, HVAC work, structural steel erection, etc.
 * Specification section included items such as masonry or concrete unless:
-*   there are instances where work included within a particular specification section will occur at widely separated intervals throughout the project; 
-*   and second certain phases of work, such as roofing, are controlled by multiple specification sections.
+ * there are instances where work included within a particular specification section will occur at widely separated intervals throughout the project; 
+ * and second certain phases of work, such as roofing, are controlled by multiple specification sections.
 
 
 
