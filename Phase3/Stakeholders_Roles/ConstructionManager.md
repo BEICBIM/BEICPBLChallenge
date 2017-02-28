@@ -11,7 +11,17 @@ A construction project can be a complex choreography involving many activities a
 * Who will perform them.
 * The order or sequence of performance.
 
-After the construction manager has sufficiently addressed these items, the next step is scheduling of the project. 
+After the construction manager has sufficiently addressed these items, informed project scheduling can start.
+
+### Project Scheduling
+Scheduling involves the determination of the timing and sequence of operations in the project and their assemblage that results in overerall project duration. This forms a baseline that allows for an objective measure of progress and predictability of completion by an expected date. The schedule is and expression of a rational allocation of time and resources to each activity that must be completed in order for the project to be completed. 
+
+### Project Activities
+Recall that during the planning process, the construction manager establishes the **activities** that must be accomplished for project completion. In general, activities must be:
+
+* Discrete. Defined by a known scope, known duration, known resources, and specific start and end dates.
+* Measurable. The work included within the scope of the activity must be measurable in some objective way (e.g. % completed).
+* Significant. The activity must have an effect on the project's overall completion.
 
 • Planning vs. Scheduling
 • Why plan & schedule
