@@ -4,9 +4,12 @@
 A construction manager must understand the basic concepts of project management and control. Construction managers recognize the need for both planning and scheduling, and why those two activities are different but dependent.  With a mastery of these basic concepts construction managers are ready for estimating and scheduling techniques, selection of construction activities, the criteria for selecting a project scheduling approach, and the basic concepts of construction logic.
 
 ### Project Planning
-A construction project is a complex orchestra of many activities and players. Unlike a manufacturing system such as an assembly line,
-each and every construction project is different, with its own design and unique set of challenges. Every building is a prototype. Many projects can be accomplished using a variety of means and methods, and rarely is a particular project so rigidly defined that the tasks that make up that project must be accomplished in a specific sequence with no possibility of variation.  Effective planning is necessary to organize the complex tasks that are associated with a construction project so that the tasks are accomplished on time, in the order that is required and with minimal disruption to the other activities going on at the site.  Planning for the construction project can be defined as
-follows: Planning involves the process of selecting the one method and order of work to be used on the project from among all the various methods and sequences possible.  Throughout the life of the project, planning will take on different aspects. This is the result of three factors:
+A construction project can be a complex choreography involving many activities and players. Compared to a manufacturing system such as an assembly line, construction projects are more inherently unique in design and execution.  Projects can often be accomplished using a variety of means and methods.  The tasks that make up a project may be accomplished with some variation in sequence.  However, construction managers must effectively plan to organize complex tasks so that they are accomplished on time, in the right order, and coordinated with other activities on the site for minimal disruption.  Planning involves the process of selecting the most appropriate method and order of work.  Project planning and plans may be general to detailed in nature but should always sufficiently address the following items:
+
+* What tasks to perform.
+* How to perform them. 
+* Who will perform them.
+* The order or sequence of performance.
 
 • Planning vs. Scheduling
 • Why plan & schedule
