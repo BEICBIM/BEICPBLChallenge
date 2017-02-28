@@ -9,3 +9,7 @@ A construction manager must understand the basic concepts of project management 
 • How to Select Activities
 • How to Select a Schedule Method
 • Exercise
+
+See [Contribute.md](https://github.com/BEICBIM/BEICPBLChallenge/blob/master/Contribute.md) for information about contributing to this project repository.
+
+Content in the BEIC Project Based Learning Challenge repository is licensed as described in [License.md](https://github.com/BEICBIM/BEICPBLChallenge/blob/master/License.md).
