@@ -3,7 +3,7 @@
 This content is intended for students who are exploring the role of an engineer as a part of a [Built Environment Innovation Challenge](https://github.com/BEICBIM/BEICPBLChallenge/blob/master/README.md).
 
 # Design, Analysis, and Cross-disciplinary Management
-An [engineer](https://en.wikipedia.org/wiki/Engineer) is any one of a wide variety of professionals that may provide expert services in design, analysis, and management within a broad professional field comprised of many engineering disciplines.  The engineering disciplines *most commonly* associated with the built environment industry are: 
+An [engineer](https://en.wikipedia.org/wiki/Engineer) is any one of a wide variety of professionals that may provide expert services in design, analysis, and management within a broad professional field comprised of many engineering disciplines.  Some examples of engineering disciplines that are *commonly* associated with the built environment industry are: 
 
 * [Civil](http://www.wbdg.org/design-disciplines/civil-engineering)
 * [Electrical](http://www.wbdg.org/design-disciplines/electrical-engineering)
