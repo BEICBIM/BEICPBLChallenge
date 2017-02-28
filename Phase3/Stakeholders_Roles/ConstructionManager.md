@@ -34,19 +34,6 @@ When selcting activities, construction managers need to consider the following t
 * Coordination points include where different subcontractors interact or coordination with the owner or other parties, projects, or contracts is required.
 * Trades & Trade Phases may be broken down individually and possibly by locations or areas of work.
 
-• Planning vs. Scheduling
-• Why plan & schedule
-• What is an Activity?
-• How to Select Activities
-• How to Select a Schedule Method
-• Exercise
-
-• Selecting the method and order of the work
-- What are the tasks to be performed?
-- How will they be performed?
-- Who will perform the tasks?
-- In what order will the tasks be performed?
-
 See [Contribute.md](https://github.com/BEICBIM/BEICPBLChallenge/blob/master/Contribute.md) for information about contributing to this project repository.
 
 Content in the BEIC Project Based Learning Challenge repository is licensed as described in [License.md](https://github.com/BEICBIM/BEICPBLChallenge/blob/master/License.md).
