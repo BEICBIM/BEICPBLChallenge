@@ -11,7 +11,7 @@ A construction project can be a complex choreography involving many activities a
 * Who will perform them.
 * The order or sequence of performance.
 
-After the construction manager has sSufficiently addressing these items, the next step is scheduling of the project. 
+After the construction manager has sufficiently addressed these items, the next step is scheduling of the project. 
 
 • Planning vs. Scheduling
 • Why plan & schedule
