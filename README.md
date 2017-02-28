@@ -8,7 +8,7 @@ The organization of this challenge curricula is inspired by the [practical 7 pha
 * Mentored students attempt to solve engaging, real world problems that consider innovative built environment solutions.
 *  Authentic roles that students may take on during this project based learning experience include: 
   * Property owner/manager 
-  * Designer/architect/engineer 
+  * Architect/engineer/designer 
   * General contractor/builder/[construction manager](https://github.com/BEICBIM/BEICPBLChallenge/blob/master/Phase3/Stakeholders_Roles/ConstructionManager.md)
 * Mentored students may work collaboratively doing Building Information Modelling (BIM) to envision solutions and prepare integrated collaborative execution agreements to deliver them. 
 
