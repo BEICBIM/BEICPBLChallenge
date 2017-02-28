@@ -9,7 +9,7 @@ The organization of this challenge curricula is inspired by the [practical 7 pha
 *  Authentic roles that students may take on during this project based learning experience include: 
   * Property owner/manager 
   * Designer/architect/engineer 
-  * General contractor/builder/construction manager
+  * General contractor/builder/[construction manager](https://github.com/BEICBIM/BEICPBLChallenge/blob/master/Phase3/Stakeholders_Roles/ConstructionManager.md)
 * Mentored students may work collaboratively doing Building Information Modelling (BIM) to envision solutions and prepare integrated collaborative execution agreements to deliver them. 
 
 The phases of a Built Environment Innovation Challenge are:
