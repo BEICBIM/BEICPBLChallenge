@@ -47,6 +47,8 @@ Project activities can be grouped hierarchically within these four general level
 * Scheduling constraints and requirements, including known/planned work stoppages, etc.
 * Work sequencing constraints
 
+The next level down in the hierarchy of project planning is the *major or master activity*. These activities range in duration from weeks to months and are typically based upon major construction trades such as "steelworkers", or specification divisions such as "Concrete", or on subcontracted items such as "Sprinkler Systems". Master activities are useful for breaking down the project into manageable pieces, which can then be allocated out to different estimators, subcontractors, etc. They are less useful for actually controlling the project during execution, although it is common for simple Bar Charts to be based upon activities at roughly this level of detail.
+
 See [Contribute.md](https://github.com/BEICBIM/BEICPBLChallenge/blob/master/Contribute.md) for information about contributing to this project repository.
 
 Content in the BEIC Project Based Learning Challenge repository is licensed as described in [License.md](https://github.com/BEICBIM/BEICPBLChallenge/blob/master/License.md).
