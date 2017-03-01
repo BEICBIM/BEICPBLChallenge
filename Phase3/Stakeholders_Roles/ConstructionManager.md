@@ -27,7 +27,7 @@ Recall that during the planning process, the construction manager establishes th
 
 When selcting activities, construction managers need to consider the following things:
 
-* Pay or Bid items that are specifically broken out in bid or payment schedule documentation.
+* Specific pay or bid items that are broken out in bid or payment schedule documentation.
 * Subcontracted items such as roofing, HVAC work, structural steel erection, etc.
 * [System & specification](http://www.wbdg.org/systems-specifications) section items.
 * Major project milestones including completion dates, ends of phases, etc.
@@ -39,6 +39,13 @@ Project activities can be grouped hierarchically within these four general level
 * Major activities
 * Minor activities
 * Milestones  
+
+**Project phases** may have multiple uses and durations from months to years.  At the *highest level* of project planning, the owner can identify phases such as project funding, delivery team selection, and execution.  The project team can also look at different *phases of execution*, especially in those cases where the execution agreement (contract) is large and complex and the execution team needs to maintain visibility and control of things like:
+
+* Separable completion dates for different items of work.
+* Priority of effort on different items of work.
+* Scheduling constraints and requirements, including known/planned work stoppages, etc.
+* Work sequencing constraints
 
 See [Contribute.md](https://github.com/BEICBIM/BEICPBLChallenge/blob/master/Contribute.md) for information about contributing to this project repository.
 
