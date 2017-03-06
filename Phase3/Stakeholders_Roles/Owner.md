@@ -1,4 +1,4 @@
-# Architect
+# Owner
 
 This content is intended for students who are exploring the role of a owner or representative of the owner as a part of a [Built Environment Innovation Challenge](https://github.com/BEICBIM/BEICPBLChallenge/blob/master/README.md).
 
