@@ -9,7 +9,7 @@ A clearly written RFS for open source PPD from an owner should solicit for team 
 1. Summarized requirement 5W's.
 2. Main perfromance objectives and spatial and temporal limits for the set of alternatives to meet the requirement.
 3. Timeframe alloted for planning and project development effort.
-4. Budget alloted (by hours and rate) broken out for architect, construction management, and engineering consulting suuport.
+4. Budget alloted (by hours and rate) broken out for architect, construction management, and engineering consulting support.
 5. Deliverables such as:
   * Open source analysis of alternatives to meet the requirement with reccomended alternative.
   * Open source signature-ready project execution agreement for Integrated Project Delivery (IPD).
