@@ -17,7 +17,7 @@ A clearly written RFS for open source PPD from an owner should solicit for team 
   * Work on similar requirements.
   * Experience on design-build projects or familiarity open source collaboration project teams.
   * Experience or familiarity with using shared file servers and collaborative Information Technology tools.
-  * Experience or familiarity with high perfromance fostering management techniques (e.g. Lean) on cross disciplanry teams. 
+  * Experience or familiarity with high-performance fostering management techniques (e.g. Lean) on cross disciplanry teams. 
 
 See [Contribute.md](https://github.com/BEICBIM/BEICPBLChallenge/blob/master/Contribute.md) for information about contributing to this project repository.
 
