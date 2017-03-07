@@ -8,8 +8,13 @@ A clearly written RFS for open source PPD from an owner should solicit for team 
 
 1. Summarized requirement 5W's.
 2. Main perfromance objectives and spatial and temporal limits for the set of alternatives to meet the requirement.
-3. Knowledge, skills, abilities, and experience desired of team members such as:
-  * Work meeting similar requirements.
+3. Timeframe alloted for planning and project development effort.
+4. Budget alloted (by hours and rate) broken out for architect, construction management, and engineering consulting suuport.
+5. Deliverables such as:
+  * Open source analysis of alternatives to meet the requirement with reccomended alternative.
+  * Open source signature-ready project execution agreement for Integrated Project Delivery (IPD).
+6. Knowledge, skills, abilities, and experience desired of team members such as:
+  * Work on similar requirements.
   * Experience on design-build projects or familiarity open source collaboration project teams.
   * Experience or familiarity with using shared file servers and collaborative Information Technology tools.
   * Experience or familiarity with high perfromance fostering management techniques (e.g. Lean) on cross disciplanry teams. 
