@@ -8,6 +8,7 @@ A clearly written RFS for open source PPD from an owner should solicit for team 
 
 1. Summarized requirement 5W's.
 2. Main perfromance objectives and spatial and temporal limits for the set of alternatives to meet the requirement.
+ * This is critical *value defining* content and should be captured in the [Project Scope Descrition (Appendix A)](https://github.com/BEICOOP/Execution-Agreements/blob/master/IPD%20Appendix%20A.md) of an integrating execution agreement. 
 3. Timeframe alloted for planning and project development effort.
 4. Budget alloted (by hours and rate) broken out for architect, construction management, and engineering consulting support.
 5. Deliverables such as:
