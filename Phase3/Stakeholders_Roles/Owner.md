@@ -1,4 +1,4 @@
-# Owner
+# The Owner's Role in a Built Environment Innovation Challenge
 
 ![Public Domain Picture from MET](http://images.metmuseum.org/CRDImages/ap/web-large/DT5422.jpg)
 
