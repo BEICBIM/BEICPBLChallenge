@@ -12,7 +12,7 @@ The challenge for students on integrated collaborative project teams is to plan 
 
 For a successful outcome you will need to present preliminary deliverables of a built environment solution that:
 
-1. Captures the expressed requirements and addresses viability from a life-cycle perspective.
+1. Captures the expressed requirements and criteria for meeting them, as well as addresses viability from a life-cycle perspective.
 
 2. Is used to communicate to permitting agencies for approval & local stakeholders for comment.
 
