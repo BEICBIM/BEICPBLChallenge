@@ -1,6 +1,6 @@
 # Owner
 
-![Public Domain Picture from MET](http://metmuseum.org/art/collection/search/12702?sortBy=Relevance&amp;ft=queen&amp;offset=0&amp;rpp=20&amp;pos=2)
+![Public Domain Picture from MET](http://images.metmuseum.org/CRDImages/ap/web-large/DT5422.jpg)
 
 This content is intended for students who are exploring the role of a owner or representative of the owner as a part of a [Built Environment Innovation Challenge](https://github.com/BEICBIM/BEICPBLChallenge/blob/master/README.md).  In this context an "owner" refers to and individual, group, organization (or their designated representative) that has a lawful, undisputed claim to fixed property (e.g. land, stationary facilities, or infrastructure) who has an ["expressed requirement" (as defined in Phase One)](https://github.com/BEICBIM/BEICPBLChallenge/blob/master/Phase1/TOC.md).
 
