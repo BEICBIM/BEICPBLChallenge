@@ -1,3 +1,4 @@
+![Public Domain Picture](http://images.metmuseum.org/CRDImages/dp/web-large/DP802723.jpg)
 # The Designer's Role in a Built Environment Innovation Challenge
 
 This content is intended for students who are exploring the role of a design professional as a part of a [Built Environment Innovation Challenge](https://github.com/BEICBIM/BEICPBLChallenge/blob/master/README.md).  Architects, engineers and other design professionals provide the essential services for the *visualizion* and *simulation* of the owner's requirements, and solutions to meet them.  These services are essential to achieving common understanding and optimizing performance of a built environment project solution that meets or exceeds the owners requirements.
