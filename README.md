@@ -7,8 +7,8 @@ The organization of this challenge curricula is inspired by the [practical 7 pha
 * Validation, planning, and development of sustainable, viable, built environments is a primary focus.
 * Mentored students attempt to solve engaging, real world problems that consider innovative built environment solutions.
 *  Authentic roles that students may take on during this project based learning experience include: 
-  * [Owner](https://github.com/BEICOOP/BEICPBLChallenge/blob/master/Phase3/Stakeholders_Roles/Owner.md): Posessor or manager of property or their designated representative. 
-  * [Designer](https://github.com/BEICBIM/BEICPBLChallenge/blob/master/Phase3/Stakeholders_Roles/Engineer.md)/designer): Professional planner, architect, engineer, or professional members of other related disciplines that primarily work to translate owner requirements into built environment information model content.
+  * [Owners](https://github.com/BEICOOP/BEICPBLChallenge/blob/master/Phase3/Stakeholders_Roles/Owner.md): Posessors or managers of property or their designated representatives. 
+  * [Designers](https://github.com/BEICBIM/BEICPBLChallenge/blob/master/Phase3/Stakeholders_Roles/Engineer.md): Professional planner, architect, engineer, or professional members of other related disciplines that primarily work to translate owner requirements into built environment information model content.
   * [Constructors](https://github.com/BEICBIM/BEICPBLChallenge/blob/master/Phase3/Stakeholders_Roles/ConstructionManager.md): General contractors, builder, makers, construction managers, and skilled trades technicians that primarily work to translate built environment information model content into material property that meets or exceeds the owners requirements.
 * Mentored students may work collaboratively doing Building Information Modelling (BIM) to envision solutions and prepare integrated collaborative execution agreements to deliver them. 
 
