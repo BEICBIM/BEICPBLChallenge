@@ -20,7 +20,7 @@ A clearly written RFS for open source PPD from an owner should demonstrate **key
 ### 4. Budget allotted (by hours and rate) broken out for designer and constructor consulting support.
  * The owner should allot a budget sufficient to cover the costs of the PPD effort that includes the following activities:
    * Defining the project funding sources and associated requirements.
-   * Defining the owner chain of command essential for exercising the key characteristic of **leadership** that is essential for effective owners making timely and informed decisions during project execution.
+   * Defining the owner chain of command is essential for exercising the key characteristic of **leadership** that is essential for effective owners making timely and informed decisions during project execution.
    * Selecting the Integrated Project Team.
    * Negotiating an Integrated Project Delivery Contract.
    * Choosing the Integrated Project Delivery Contract Type.
