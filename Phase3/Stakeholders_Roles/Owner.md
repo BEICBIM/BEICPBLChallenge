@@ -16,7 +16,7 @@ A clearly written RFS for open source PPD from an owner should demonstrate **key
  * Effective owners have the characteristic of **commitment** to [Integrated Project Delivery](https://en.wikipedia.org/wiki/Integrated_project_delivery) as a means to find problems (early and often) with meeting or exceeding their expressed requirements.  This is when implementing solutions has lesser cost and risk than later in project execution.  
 ### 3. Timeframe allotted for the PPD effort.
  * Depending on the complexity of the requirement and resources available to the owner the timeframe might range anywhere from a year to a one-day hackathon.
- * The key characteristic of **engagement** demonstrated by effective owners manifests itself as continuous involvement with designers and constructors during the timeframe allotted PPD effort.
+ * The key characteristic of **engagement** demonstrated by effective owners manifests itself as continuous involvement with designers and constructors during the timeframe allotted for PPD effort.
 ### 4. Budget allotted (by hours and rate) broken out for designer and constructor consulting support.
  * The owner should allot a budget sufficient to cover the costs of the PPD effort that includes the following activities:
    * Defining the project funding sources and associated requirements.
