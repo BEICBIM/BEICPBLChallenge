@@ -6,7 +6,7 @@ This content is intended for students who are exploring the role of a owner or r
 
 The owner's role and participation in establishing a successful project *team* (one that is enabled to *deliver* a successful project) is particularly important.  This may start with the owner summarizing the "5W's" of an "expressed requirement" (as described in Phase One of a Built Environment Innovation Challenge) into a clearly written Request For Support (RFS) for open-source Planning and Project Development (PPD) from the community built environment industry professionals, experts, educators, and students.  This fundamental initializing content contributed by owners should concisely capture the *extent* of relevant subject matter that an open source project team must deal with during planning, design, and delivery in order to satisfy the **full requirement** at the owner's property.  It must clearly establish a the main performance objectives (ecological, financial, functional, and aesthetic), and spatial and temporal limits for the set of alternatives to meet the requirement.  This initializing content may be posted in blog form (e.g. on the [BEIC blog](https://beicoop.wordpress.com/blog/)) for general access and comment, and a "Git" repository (e.g. on GitHub) for fostering collaboration with version control.
 
-## The Owners Deliverables
+## The Owner's Deliverables
 A clearly written RFS for open source PPD from an owner should demonstrate **key characteristics of an effective owner** and solicit for team members with architecture, constructor, and engineering (ACE) expertise.  Include the folowing content:
 
 ### 1. Summarized requirement 5W's
@@ -23,7 +23,7 @@ A clearly written RFS for open source PPD from an owner should demonstrate **key
    * Defining the owner chain of command essential for exercising the key characteristic of **leadership** that is esssential for effective owners making timely and informed decisions during project execution.
    * Selecting the Integrated Project Team
    * Negotiating an Integrated Project Delivery Contract
-   * Choosing the Integrated Project Delivery Contract Type.
+   * Choosing the Integrated Project Delivery Contract Type
 ### 5. [Open-source](https://en.wikipedia.org/wiki/Open-source_architecture) standards and [licenses](https://creativecommons.org/licenses/) for content such as:
   * Analysis of alternatives to meet the requirement with reccomended alternative.
   * Signature-ready project execution agreements for Integrated Project Delivery (IPD).
