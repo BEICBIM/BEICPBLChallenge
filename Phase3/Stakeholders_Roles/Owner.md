@@ -16,12 +16,12 @@ A clearly written RFS for open source PPD from an owner should demonstrate **key
  * Effective owners have the characteristic of **commitment** to Integrated Project Delivery as a means to find problems meeting requirements ealry and often, when implementing solutions has lesser cost and risk than later in project execution. 
 ### 3. Timeframe alloted for planning and project development effort.
 ### 4. Budget alloted (by hours and rate) broken out for architect consulting, construction management, and engineering consulting support.
-### 5. Other Deliverables such as:
-  * Open source analysis of alternatives to meet the requirement with reccomended alternative.
-  * Open source signature-ready project execution agreement for Integrated Project Delivery (IPD).
+### 5. [Open-source](https://en.wikipedia.org/wiki/Open-source_architecture) standards and [licenses](https://creativecommons.org/licenses/) for content such as:
+  * Analysis of alternatives to meet the requirement with reccomended alternative.
+  * Signature-ready project execution agreements for Integrated Project Delivery (IPD).
 ### 6. Knowledge, skills, abilities, and experience desired of team members such as:
   * Work on similar requirements.
-  * Experience on design-build projects or familiarity open source collaboration project teams.
+  * Experience with Integrated Project Delivery or familiarity open source collaboration project teams.
   * Experience or familiarity with using shared file servers and collaborative Information Technology tools.
   * Experience or familiarity with high-performance fostering management techniques (e.g. Lean) on cross disciplanry teams. 
 
