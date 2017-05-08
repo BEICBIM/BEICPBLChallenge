@@ -19,10 +19,15 @@ A clearly written RFS for open source PPD from an owner should demonstrate **key
  * The key characteristic of **engagement** demonstrated by effective owners manifests itslef as continuous involvement with designers and constructors during the timeframe allotted PPD effort.
 ### 4. Budget alloted (by hours and rate) broken out for designer and constructor consulting support.
  * The owner should allot a budget sufficient to cover the costs of the PPD effort that includes the following activities:
-   * step
+   * Defining the project funding sources and associated requirements.
+   * Defining the owner chain of command essential for exercising the key characteristic of **leadership** that is esssential for effective owners making timely and informed decisions during project execution.
+   * Selecting the Integrated Project Team
+   * Negotiating an Integrated Project Delivery Contract
+   * Choosing the Integrated Project Delivery Contract Type.
 ### 5. [Open-source](https://en.wikipedia.org/wiki/Open-source_architecture) standards and [licenses](https://creativecommons.org/licenses/) for content such as:
   * Analysis of alternatives to meet the requirement with reccomended alternative.
   * Signature-ready project execution agreements for Integrated Project Delivery (IPD).
+  * **Integrity** is a key characteristic of effective owners and adopting open source methodolgies and licenses sets a tone of openness  and transparency that fosters the trust-based relationships esssential to IPD execution.  
 ### 6. Knowledge, skills, abilities, and experience desired of team members such as:
   * Work on similar requirements.
   * Experience with Integrated Project Delivery or familiarity open source collaboration project teams.
