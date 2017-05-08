@@ -6,12 +6,13 @@ This content is intended for students who are exploring the role of a owner or r
 
 The owner's role and participation in establishing a successful project *team* (one that is enabled to *deliver* a successful project) is particularly important.  This may start with the owner summarizing the "5W's" of an "expressed requirement" (as described in Phase One of a Built Environment Innovation Challenge) into a clearly written Request For Support (RFS) for open-source Planning and Project Development (PPD) from the community built environment industry professionals, experts, educators, and students.  This fundamental initializing content contributed by owners should concisely capture the *extent* of relevant subject matter that an open source project team must deal with during planning, design, and delivery in order to satisfy the **full requirement** at the owner's property.  It must clearly establish a the main performance objectives (ecological, financial, functional, and aesthetic), and spatial and temporal limits for the set of alternatives to meet the requirement.  This initializing content may be posted in blog form (e.g. on the [BEIC blog](https://beicoop.wordpress.com/blog/)) for general access and comment, and a "Git" repository (e.g. on GitHub) for fostering collaboration with version control.
 
-A clearly written RFS for open source PPD from an owner should solicit for team members with architecture, construction management, and engineering (ACE) expertise and include the folowing content:
+A clearly written RFS for open source PPD from an owner should demonstrate **key characteristics of an effective owner** and solicit for team members with architecture, constructor, and engineering (ACE) expertise.  Include the folowing content:
 
 1. Summarized requirement 5W's.
  * **Clarity** on each is a key characteristic of the owner's role.  Be particularly clear on *why* the project is important and set expectations of project team members accordingly.
 2. Main perfromance objectives and spatial and temporal limits for the set of alternatives to meet the requirement.
- * This is critical *value defining* content and should be captured in the [Project Scope Descrition (Appendix A)](https://github.com/BEICOOP/Execution-Agreements/blob/master/IPD%20Appendix%20A.md) of an integrating execution agreement. 
+ * This is critical *value defining* content and should be captured in the [Project Scope Descrition (Appendix A)](https://github.com/BEICOOP/Execution-Agreements/blob/master/IPD%20Appendix%20A.md) of an integrating execution agreement.
+ * **Commitment** to Integrated Project Delivery as a means to find problems ealry and often, when implementing solutions has lesser cost and risk than later in project execution. 
 3. Timeframe alloted for planning and project development effort.
 4. Budget alloted (by hours and rate) broken out for architect, construction management, and engineering consulting support.
 5. Deliverables such as:
