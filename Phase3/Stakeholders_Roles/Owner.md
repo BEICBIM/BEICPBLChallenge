@@ -13,7 +13,7 @@ A clearly written RFS for open source PPD from an owner should demonstrate **key
  * **Clarity** on each is a key characteristic of the owner's role.  Be particularly clear on *why* the project is important and set expectations of project team members accordingly.
 ### 2. Main performance objectives and spatial and temporal limits for the set of alternatives to meet the requirement.
  * This is critical *value defining* content and should be captured in the [Project Scope Descrition (Appendix A)](https://github.com/BEICOOP/Execution-Agreements/blob/master/IPD%20Appendix%20A.md) of an integrating execution agreement.
- * Effective owners have the characteristic of **commitment** to [Integrated Project Delivery](https://en.wikipedia.org/wiki/Integrated_project_delivery) as a means to find problems with meeting or exceeding their expressed requirements early and often.  This is when implementing solutions has lesser cost and risk than later in project execution.  
+ * Effective owners have the characteristic of **commitment** to [Integrated Project Delivery](https://en.wikipedia.org/wiki/Integrated_project_delivery) as a means to find problems (early and often) with meeting or exceeding their expressed requirements.  This is when implementing solutions has lesser cost and risk than later in project execution.  
 ### 3. Timeframe allotted for the PPD effort.
  * Depending on the complexity of the requirement and resources available to the owner the timeframe might range anywhere from a year to a one-day hackathon.
  * The key characteristic of **engagement** demonstrated by effective owners manifests itself as continuous involvement with designers and constructors during the timeframe allotted PPD effort.
