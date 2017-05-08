@@ -21,9 +21,9 @@ A clearly written RFS for open source PPD from an owner should demonstrate **key
  * The owner should allot a budget sufficient to cover the costs of the PPD effort that includes the following activities:
    * Defining the project funding sources and associated requirements.
    * Defining the owner chain of command essential for exercising the key characteristic of **leadership** that is essential for effective owners making timely and informed decisions during project execution.
-   * Selecting the Integrated Project Team
-   * Negotiating an Integrated Project Delivery Contract
-   * Choosing the Integrated Project Delivery Contract Type
+   * Selecting the Integrated Project Team.
+   * Negotiating an Integrated Project Delivery Contract.
+   * Choosing the Integrated Project Delivery Contract Type.
 ### 5. [Open-source](https://en.wikipedia.org/wiki/Open-source_architecture) standards and [licenses](https://creativecommons.org/licenses/) for content such as:
   * Analysis of alternatives to meet the requirement with recommended alternative.
   * Signature-ready project execution agreements for Integrated Project Delivery (IPD).
