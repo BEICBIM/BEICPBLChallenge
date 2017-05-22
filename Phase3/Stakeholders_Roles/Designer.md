@@ -20,7 +20,7 @@ An [engineer](https://en.wikipedia.org/wiki/Engineer) is any one of a wide varie
 ## Other Built Environment Related Design Professions
 Examples of other design disciplines that are *commonly* associated with the built environment industry include but are not limited to:
 
-* [Interior Designers] (https://en.wikipedia.org/wiki/Interior_design)
+* [Interior Designers](https://en.wikipedia.org/wiki/Interior_design)
 * [Landscape Architects](https://en.wikipedia.org/wiki/Landscape_architecture)
 * [Service Designers](https://en.wikipedia.org/wiki/Service_design)
 * [Spatial Designers](https://en.wikipedia.org/wiki/Spatial_design)
