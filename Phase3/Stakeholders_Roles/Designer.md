@@ -18,6 +18,13 @@ An [engineer](https://en.wikipedia.org/wiki/Engineer) is any one of a wide varie
 * [Structural](http://www.wbdg.org/design-disciplines/structural-engineering)
 
 ## Other Built Environment Related Design Professions
+Examples of other design disciplines that are *commonly* associated with the built environment industry include but are not limited to:
+
+* [Interior Designers] (https://en.wikipedia.org/wiki/Interior_design)
+* [Landscape Architects](https://en.wikipedia.org/wiki/Landscape_architecture)
+* [Service Designers](https://en.wikipedia.org/wiki/Service_design)
+* [Spatial Designers](https://en.wikipedia.org/wiki/Spatial_design)
+* [Urban Designers](https://en.wikipedia.org/wiki/Urban_design)
 
 See [Contribute.md](https://github.com/BEICBIM/BEICPBLChallenge/blob/master/Contribute.md) for information about contributing to this project repository.
 
