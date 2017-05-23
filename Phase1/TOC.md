@@ -1,6 +1,6 @@
 # Phase One: A Driving Question Question About The Built Environment
 
-Built environment innovations, large or small, start with a expressed requirement. In this context, a requirement refers to a need or a want for repair, maintenance, modernization, re-purposing, or an entirely new improvement at an [owner's](https://github.com/BEICBIM/BEICPBLChallenge/blob/master/Phase3/Stakeholders_Roles/Owner.md) property location. It can be expressed (or communicated) through content such as text, diagrams, maps, etc. that concisely captures the "5W's":
+Built environment innovations, large or small, start with a expressed **requirement**. In this context, a requirement refers to a need or a want for repair, maintenance, modernization, re-purposing, or an entirely new improvement at an [owner's](https://github.com/BEICBIM/BEICPBLChallenge/blob/master/Phase3/Stakeholders_Roles/Owner.md) property location. It can be expressed (or communicated) through content such as text, diagrams, maps, etc. that concisely captures the "5W's":
 
 * Where is the requirement?
 * What is the requirement?
