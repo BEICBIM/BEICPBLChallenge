@@ -1,5 +1,5 @@
-![Public Domain Picture](http://images.metmuseum.org/CRDImages/dp/web-large/DP802723.jpg)
 # The Designer's Role in a Built Environment Innovation Challenge
+![Public Domain Picture](http://images.metmuseum.org/CRDImages/dp/web-large/DP802723.jpg)
 
 This content is intended for students who are exploring the role of a design professional as a part of a [Built Environment Innovation Challenge](https://github.com/BEICBIM/BEICPBLChallenge/blob/master/README.md).  **Architects, engineers and other design professionals** (as described below) provide essential services for *visualizion* and *simulation* of _owner [requirements](https://github.com/BEICOOP/BEICPBLChallenge/blob/master/Phase1/TOC.md)_, and _coordinated solutions_ to meet them.  In a built environment innovation challange, designers must ensure their visualization and simulation stays in sync across the network of interdependent relationships among the owner, designer, constructor teams and the various parts, components, and subsystems that comprise an alternative solution.  These services are essential to achieving an effective project delivery team and optimizing performance of a built environment project solution that meets or exceeds owner requirements.
 
