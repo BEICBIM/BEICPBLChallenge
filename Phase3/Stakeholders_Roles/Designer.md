@@ -7,7 +7,7 @@ This content is intended for students who are exploring the role of a design pro
 An architect's services are essentially the art and science of creating an optimal "built environment user experience".  This refers to the experience the owner has expressing a built environment requirement, as well as the experience the people who will utilize spaces created to meet the requirement will have.  The users' activities within these spaces are based upon particular functions.  For example, a warehouse and an operating room are types of spaces that support very different users and functions.  The successful architect must enable the integration of *objective* confrimations that functional requirements of spaces are met with *subjective* confirmations that the same spaces will please the people that will use them.   
 
 ## Engineer
-An [engineer](https://en.wikipedia.org/wiki/Engineer) is any one of a wide variety of professionals that may provide expert services in design, analysis, and management within a broad professional field comprised of many engineering disciplines.  Some examples of engineering disciplines that are *commonly* associated with the built environment industry are: 
+An [engineer](https://en.wikipedia.org/wiki/Engineer) is any one of a wide variety of professionals that may provide expert services in design, analysis, and management within a broad professional field comprised of many engineering disciplines.  Some examples of engineering disciplines that are *commonly* associated with the built environment industry include (but are not limited to): 
 
 * [Civil](http://www.wbdg.org/design-disciplines/civil-engineering)
 * [Electrical](http://www.wbdg.org/design-disciplines/electrical-engineering)
@@ -18,7 +18,7 @@ An [engineer](https://en.wikipedia.org/wiki/Engineer) is any one of a wide varie
 * [Structural](http://www.wbdg.org/design-disciplines/structural-engineering)
 
 ## Other Built Environment Related Design Professions
-Examples of other design disciplines that are *commonly* associated with the built environment industry include but are not limited to:
+Examples of other design disciplines that are *commonly* associated with the built environment industry include (but are not limited to):
 
 * [Interior Designers](https://en.wikipedia.org/wiki/Interior_design)
 * [Landscape Architects](https://en.wikipedia.org/wiki/Landscape_architecture)
