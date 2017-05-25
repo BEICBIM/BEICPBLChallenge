@@ -27,7 +27,14 @@ Examples of other design disciplines that are *commonly* associated with the bui
 * [Urban Designers](https://en.wikipedia.org/wiki/Urban_design)
 
 ## The Designer's Deliverables
-### A preliminary version of a *information model*:
+### 1. A reply to the Request For Support (RFS) for open-source Planning and Project Development (PPD) published by the owner:
+
+This reply should be informed by the open source content published by the owner as described in the content of the [Owner's Deleiverables for a Built Environment Innovation Challenge](https://github.com/BEICOOP/BEICPBLChallenge/blob/master/Phase3/Stakeholders_Roles/Owner.md).  After a careful review of all the content posted by the owner, the designer should formulate, organize, and consolidate any questions the designer has about the owners requirements into a concise, organized and summarized Request (or Requests) For Information (RFI).  Be sure to request a time limit for responses to the RFI(s) from the owner so that the owner has an understanding of when the designer needs them for a complete and timely response in support the owners timeframe allotted for the PPD effort.  Review any responses the owner provides to the RFI(s) by the time requested, and publish a written reponse to the owners RFS by the time requested by the owner.  The RFS response should make it clear how the designers' knowledge, skills, and abilities support the delivery of a solution that meets or exceeds owner-expressed requirements.    
+
+
+
+### 3. An *information model* for project inception:
+
 A key characteristic of this model is that it's *parametric*.  It can capture, manage, and show relationships between the various parts, components, and subsystems that comprise alternative solutions to meet or exceed owner requirements.  This requires that design team leadership make recommendations to the owner about the aspects of their requirements that will benefit most from parametric modelling and collaborative developmet by cross-functional teams of key designers, [constructors](https://github.com/BEICOOP/BEICPBLChallenge/blob/master/Phase3/Stakeholders_Roles/ConstructionManager.md), and even product suppliers essential to evolving and refining the model to meet owner requirements.  Evolving and refining the design as a paramentric model enables cross a functional team to discover and finds solve problems in a virtual environment.  Solving problems in the virtual environment with the help of parametric modelling has less cost and schedule impacts on the delivery of a solution that meets owner requirements than finding and solving the same problems later during the actual physical construction effort.  
 
 See [Contribute.md](https://github.com/BEICBIM/BEICPBLChallenge/blob/master/Contribute.md) for information about contributing to this project repository.
