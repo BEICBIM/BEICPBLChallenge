@@ -27,15 +27,16 @@ Examples of other design disciplines that are *commonly* associated with the bui
 * [Urban Designers](https://en.wikipedia.org/wiki/Urban_design)
 
 ## The Designer's Deliverables
-### 1. Post a Support Proposal in response to the Request For Support (RFS) for open-source Planning and Project Development (PPD) published by the owner:
+### 1. Post a Support Proposal in response to the Request For Support (RFS) for open-source Planning and Project Development (PPD) posted by the owner:
 
 This open source proposal should be informed by the open source content published by the owner as described in the content of the [Owner's Deleiverables for a Built Environment Innovation Challenge](https://github.com/BEICOOP/BEICPBLChallenge/blob/master/Phase3/Stakeholders_Roles/Owner.md).  After a careful review of all the content posted by the owner, the designer should formulate, organize, and consolidate any questions the designer has about the owners requirements into a concise, organized and summarized Request (or Requests) For Information (RFI).  Be sure to request a time limit for responses to the RFI(s) from the owner so that the owner has an understanding of when the designer needs them for a complete and timely response in support the owners timeframe allotted for the PPD effort.  Review any responses the owner provides to the RFI(s) by the time requested, and publish an open source written reponse to the owners RFS by the time requested by the owner.  The RFS response should make it clear how the designers' knowledge, skills, and abilities support the delivery of a solution that meets or exceeds owner-expressed requirements.    
 
 ### 2. Post an *information modelling* integration plan:
 
-This plan will describe to the owner, how the process of meeting or exceeding owner-expressed requirements will perform best when it stays synchronized across the network of interdependent relationships as described above.  It also explains how this synchronization is supported by the most appropriate information modelling **tools, platforms, or environment** with respect to the owner-expressed requirement.
+This plan will describe to the owner, how the process of meeting their requirements will perform best when it stays synchronized across the network of interdependent relationships as described above.  It also explains how information modelling **tools, platforms, or environment** support the synchronization needed for the best solution to their requirement.
 
-### Information Modeling Tool(s)
+### Integration of Information Modeling Tool(s)
+Information modelling tools refer to design applications that carry out valuable tasks.  They are more valuabe than drafting and design applications limited to merely representing lines, texts, shapes with fixed geometry and porperties on a computer screen or on paper.   
 
 ### Information Modeling Platform
 
