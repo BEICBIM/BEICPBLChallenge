@@ -27,15 +27,15 @@ Examples of other design disciplines that are *commonly* associated with the bui
 * [Urban Designers](https://en.wikipedia.org/wiki/Urban_design)
 
 ## The Designer's Deliverables
-### 1. A reply to the Request For Support (RFS) for open-source Planning and Project Development (PPD) published by the owner:
+### 1. Post a Support Proposal in response to the Request For Support (RFS) for open-source Planning and Project Development (PPD) published by the owner:
 
-This reply should be informed by the open source content published by the owner as described in the content of the [Owner's Deleiverables for a Built Environment Innovation Challenge](https://github.com/BEICOOP/BEICPBLChallenge/blob/master/Phase3/Stakeholders_Roles/Owner.md).  After a careful review of all the content posted by the owner, the designer should formulate, organize, and consolidate any questions the designer has about the owners requirements into a concise, organized and summarized Request (or Requests) For Information (RFI).  Be sure to request a time limit for responses to the RFI(s) from the owner so that the owner has an understanding of when the designer needs them for a complete and timely response in support the owners timeframe allotted for the PPD effort.  Review any responses the owner provides to the RFI(s) by the time requested, and publish an open source written reponse to the owners RFS by the time requested by the owner.  The RFS response should make it clear how the designers' knowledge, skills, and abilities support the delivery of a solution that meets or exceeds owner-expressed requirements.    
+This open source proposal should be informed by the open source content published by the owner as described in the content of the [Owner's Deleiverables for a Built Environment Innovation Challenge](https://github.com/BEICOOP/BEICPBLChallenge/blob/master/Phase3/Stakeholders_Roles/Owner.md).  After a careful review of all the content posted by the owner, the designer should formulate, organize, and consolidate any questions the designer has about the owners requirements into a concise, organized and summarized Request (or Requests) For Information (RFI).  Be sure to request a time limit for responses to the RFI(s) from the owner so that the owner has an understanding of when the designer needs them for a complete and timely response in support the owners timeframe allotted for the PPD effort.  Review any responses the owner provides to the RFI(s) by the time requested, and publish an open source written reponse to the owners RFS by the time requested by the owner.  The RFS response should make it clear how the designers' knowledge, skills, and abilities support the delivery of a solution that meets or exceeds owner-expressed requirements.    
 
-### 2. An *information modelling* integration plan:
+### 2. Post an *information modelling* integration plan:
 
 This plan will describe for the owner how the process of meeting or exceeding the owner-expressed requirement will perform best when it stays in sync across the network of interdependent relationships among the owner, designer, constructor teams and the various parts, components, and subsystems that comprise the solution (or alternative solutions).  It also explains how this synchronization is supported by the most appropriate information modelling **tools, platforms, or environment** with respect to the owner-expressed requirement.
 
-### 3. An preliminary *information model* for project inception:
+### 3. Develop a preliminary *information model* for project inception:
 
 ### Information Modeling Tool(s)
 
