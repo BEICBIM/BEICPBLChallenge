@@ -36,7 +36,7 @@ This open source proposal should be informed by the open source content publishe
 This plan will describe to the owner, how the process of meeting their requirements will perform best when it stays synchronized across the network of interdependent relationships as described above.  It also explains how information modelling **tools, platforms, or environment** support the synchronization needed for the best solution to their requirement.
 
 ### Integration of Information Modeling Tool(s)
-Information modelling tools refer to design applications that carry out valuable tasks.  They are more valuabe than drafting and design applications limited to merely representing lines, texts, shapes with fixed geometry and porperties on a computer screen or on paper.   
+Information modelling tools refer to design applications that carry out valuable tasks *in addition to* merely capturing and representing descriptive graphic or textual content with fixed geometry and properties on a monitor or paper.  Tools that automatically synchronize content accross design disciplines and output formats can decrease the risks of cost and schedule increase when a potential change is introduced.
 
 ### Information Modeling Platform
 
