@@ -1,7 +1,7 @@
 # The Designer's Role in a Built Environment Innovation Challenge
 ![Public Domain Picture](http://images.metmuseum.org/CRDImages/dp/web-large/DP802723.jpg)
 
-This content is intended for students who are exploring the role of a design professional as a part of a [Built Environment Innovation Challenge](https://github.com/BEICBIM/BEICPBLChallenge/blob/master/README.md).  **Architects, engineers and other design professionals** (as described below) provide essential services for *visualizion* and *simulation* of _owner [requirements](https://github.com/BEICOOP/BEICPBLChallenge/blob/master/Phase1/TOC.md)_, and _coordinated solutions_ to meet them.  In a built environment innovation challange, designers must ensure their visualization and simulation stays in sync across the network of interdependent relationships among the owner, designer, constructor teams and the various parts, components, and subsystems that comprise an alternative solution.  These services are essential to achieving an effective project delivery team and optimizing performance of a built environment project solution that meets or exceeds owner requirements.
+This content is intended for students who are exploring the role of a design professional as a part of a [Built Environment Innovation Challenge](https://github.com/BEICBIM/BEICPBLChallenge/blob/master/README.md).  **Architects, engineers and other design professionals** (as described below) provide essential services for *visualizion* and *simulation* of _owner [requirements](https://github.com/BEICOOP/BEICPBLChallenge/blob/master/Phase1/TOC.md)_, and _coordinated solutions_ to meet them.  In a built environment innovation challange, designers must ensure their visualization and simulation stays synchronized across the network of interdependent relationships among the owner, designer, constructor teams and the various parts, components, and subsystems that comprise an alternative solution.  These services are essential to achieving an effective project delivery team and optimizing performance of a built environment project solution that meets or exceeds owner requirements.
 
 ## Architect
 An architect's services are essentially the art and science of creating an optimal "built environment user experience".  This refers to the experience the owner has expressing a built environment requirement, as well as the experience the people who will utilize spaces created to meet the requirement will have.  The users' activities within these spaces are based upon particular functions.  For example, a warehouse and an operating room are types of spaces that support very different users and functions.  The successful architect must enable the integration of *objective* confrimations that functional requirements of spaces are met with *subjective* confirmations that the same spaces will please the people that will use them.   
@@ -33,15 +33,15 @@ This open source proposal should be informed by the open source content publishe
 
 ### 2. Post an *information modelling* integration plan:
 
-This plan will describe for the owner how the process of meeting or exceeding the owner-expressed requirement will perform best when it stays in sync across the network of interdependent relationships among the owner, designer, constructor teams and the various parts, components, and subsystems that comprise the solution (or alternative solutions).  It also explains how this synchronization is supported by the most appropriate information modelling **tools, platforms, or environment** with respect to the owner-expressed requirement.
-
-### 3. Develop a preliminary *information model* for project inception:
+This plan will describe to the owner, how the process of meeting or exceeding owner-expressed requirements will perform best when it stays synchronized across the network of interdependent relationships as described above.  It also explains how this synchronization is supported by the most appropriate information modelling **tools, platforms, or environment** with respect to the owner-expressed requirement.
 
 ### Information Modeling Tool(s)
 
 ### Information Modeling Platform
 
 ### Information Modeling Environment
+
+### 3. Develop a preliminary *information model* for project inception:
 
 A key characteristic of an information model is that it's *parametric*.  More than just a represent three demensional geometry, it can capture, manage, and show relationships between the various parts, components, and subsystems that comprise alternative solutions to meet or exceed owner requirements.  This requires that design team leadership make recommendations to the owner about the aspects of their requirements that will benefit most from parametric modelling and collaborative developmet by cross-functional teams of key designers, [constructors](https://github.com/BEICOOP/BEICPBLChallenge/blob/master/Phase3/Stakeholders_Roles/ConstructionManager.md), and even product suppliers essential to evolving and refining the model to meet owner requirements.  Evolving and refining the design as a paramentric model enables cross a functional team to discover and finds solve problems in a virtual environment.  Solving problems in the virtual environment with the help of parametric modelling has less cost and schedule impacts on the delivery of a solution that meets owner requirements than finding and solving the same problems later during the actual physical construction effort.  
 
