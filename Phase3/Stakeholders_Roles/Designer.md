@@ -27,20 +27,23 @@ Examples of other design disciplines that are *commonly* associated with the bui
 * [Urban Designers](https://en.wikipedia.org/wiki/Urban_design)
 
 ## The Designer's Deliverables
-### 1. Post a Support Proposal in response to the Request For Support (RFS) for open-source Planning and Project Development (PPD) posted by the owner:
+### 1. Post a response to the Request For Support (RFS) for open-source Planning and Project Development (PPD) posted by the owner:
 
 This open source proposal should be informed by the open source content published by the owner as described in the content of the [Owner's Deleiverables for a Built Environment Innovation Challenge](https://github.com/BEICOOP/BEICPBLChallenge/blob/master/Phase3/Stakeholders_Roles/Owner.md).  After a careful review of all the content posted by the owner, the designer should formulate, organize, and consolidate any questions the designer has about the owners requirements into a concise, organized and summarized Request (or Requests) For Information (RFI).  Be sure to request a time limit for responses to the RFI(s) from the owner so that the owner has an understanding of when the designer needs them for a complete and timely response in support the owners timeframe allotted for the PPD effort.  Review any responses the owner provides to the RFI(s) by the time requested, and publish an open source written reponse to the owners RFS by the time requested by the owner.  The RFS response should make it clear how the designers' knowledge, skills, and abilities support the delivery of a solution that meets or exceeds owner-expressed requirements.    
 
-### 2. Post an *information modelling* integration plan:
+### 2. Prepare an *information modelling* integration plan:
+This plan prepared by the designer should describe to the owner, how the process of meeting the owner's requirements will perform best when it stays synchronized across the network of interdependent relationships as described above.  It also should explain how information modelling **tools, platforms, or environments** support the synchronization needed for the best solution to the owner-expressed requirements.  The choice by the owner to utilize information modelling tools, platforms, or an information modelling environment depends on the level of sophistication necessary.  The designer should cover each concept in the information modelling integration plan and make clear reccomendations to the owner about what level of sophistication will result in optimal performance of the project with respect to the owner-expressed requirements and budget.  
 
-This plan prepared by the designer should describe to the owner, how the process of meeting the owner's requirements will perform best when it stays synchronized across the network of interdependent relationships as described above.  It also should explain how information modelling **tools, platforms, or environments** support the synchronization needed for the best solution to the owner-expressed requirements.  The choice by the owner to utilize information modelling tools, platforms, or an information modelling environment depends on the level of sophistication necessary.  The designer should cover each in the information modelling integration plan and make clear reccomendations to the owner about what level of sophistication will result in optimal performance of the project with respect to the owner-expressed requirements and budget.  
+#### Integration of Information Modeling Tool(s)
+Information modelling tools refer to design applications that carry out valuable tasks *in addition to* merely capturing and representing descriptive graphic or textual content with fixed geometry and properties on a monitor or paper.  Tools that automatically synchronize content accross design disciplines and output formats can decrease the risks of cost and schedule increase when a potential change is introduced.  The designer will need to compare information modelling systems according to the following criteria in the context of the owners requirements and experience.
 
-### Integration of Information Modeling Tool(s)
-Information modelling tools refer to design applications that carry out valuable tasks *in addition to* merely capturing and representing descriptive graphic or textual content with fixed geometry and properties on a monitor or paper.  Tools that automatically synchronize content accross design disciplines and output formats can decrease the risks of cost and schedule increase when a potential change is introduced.
+* **User interface intuitiveness.** The designer must assess existing tools on how readily the primary users of the information modelling system will familiarize and gain proficiency with it.  Obviously the least time necessary to learn and the least amount of user errors will result in greater value towards the design.
 
-### Information Modeling Platform
+* **Content functionality.**  The designer must assess existing tools on how well content changes within the model are reflected in updated outputs (e.g. output devices, drawings, material lists, etc.) and result in timely timely implementation during project execution to reduce or avoid costs and delays.  
 
-### Information Modeling Environment
+#### Information Modeling Platform
+
+#### Information Modeling Environment
 
 ### 3. Develop a preliminary *information model* for project inception:
 
