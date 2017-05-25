@@ -33,7 +33,7 @@ This reply should be informed by the open source content published by the owner 
 
 ### 2. An *information modelling* integration plan:
 
-This plan will describe for the owner how the process of meeting or exceeding the expressed requirement will perform best when it stays in sync across the network of interdependent relationships among the owner, designer, constructor teams and the various parts, components, and subsystems that comprise the solution (or alternative solutions).  It also explains how this synchronization is supported by the most appropriate information modelling **tools, platforms, or environment** with respect to the owner-expressed requirement.
+This plan will describe for the owner how the process of meeting or exceeding the owner-expressed requirement will perform best when it stays in sync across the network of interdependent relationships among the owner, designer, constructor teams and the various parts, components, and subsystems that comprise the solution (or alternative solutions).  It also explains how this synchronization is supported by the most appropriate information modelling **tools, platforms, or environment** with respect to the owner-expressed requirement.
 
 ### 3. An preliminary *information model* for project inception:
 
