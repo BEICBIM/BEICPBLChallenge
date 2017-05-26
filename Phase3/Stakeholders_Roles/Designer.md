@@ -46,6 +46,10 @@ Information modelling tools refer to design applications that carry out valuable
 #### Platform
 An information modelling platform referes to an integrated system of tools, processing power, storage, and multi-user access suited to a particular set of owner requirements and the corresponding design, analysis, and management tasks. Platforms that can process and store large amounts of data as wel as interface with external data sources benefit owners who have complex requirements that necessitate coordination and collaboration over a large breadth of design disciplnes and specialties as well as a significant depth of detail within the respective disciplnes and specialties.  The designer will need to compare information modelling platform systems according to the following criteria in the context of the owners requirements and experience.
 
+* **Inter-application processing capacity.**  The designer must assess how quickly multiple applications share and process large amounts of data within the cloud computing environment of a given platform.
+
+* **Collaboration support.** The designer must assess how well a platform encourages and fosters collaboration between the variety of stakeholders within the project team itself as well as within the larger built environmet industry.
+
 #### Environment
 
 ### 3. Develop a preliminary *information model* for project inception:
