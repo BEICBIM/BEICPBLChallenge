@@ -1,8 +1,17 @@
-# Construction Manager
+# The Constructor's Role in a Built Environment Innovation Challenge
 
-This content is intended for students who are exploring the role of a construction manager as a part of a [Built Environment Innovation Challenge](https://github.com/BEICBIM/BEICPBLChallenge/blob/master/README.md).  
+This content is intended for students who are exploring the role of a Constructor (or [Construction Managers](https://youtu.be/jNgsSdRqsh0)) as a part of a [Built Environment Innovation Challenge](https://github.com/BEICBIM/BEICPBLChallenge/blob/master/README.md).  In the context of a built environment innovation challenge, construction managers refer to those professionals that provide the essenetial services neccesary to *realize* a coordinated solution to owner [requirements](https://github.com/BEICOOP/BEICPBLChallenge/blob/master/Phase1/TOC.md).  These services include:
+* Planning
+* Permitting
+* Estimating
+* Scheduling
+* Contract administration
+* Procurement
+* Logistics
+* Supervisory control 
+This essential role spans from the early planning and development of projects, through project execution and delivery (or realization).  A Construction Manager should have a good understanding of the basics concepts of project management and control *and* must integrate key information from this understanding into the layers of the information model established by the [Designer](https://github.com/BEICOOP/BEICPBLChallenge/blob/master/Phase3/Stakeholders_Roles/Designer.md) **early in project planning and development efforts**. This is essential for increasing the likelihood that the (virtual) information model can be a *successfully realized*.  For the information model to be successfuly realized, the built environment system that it visualizes and simulates should be able to demonstrate to the owner (virtually) that the system solution is *constructable*, and the most *efficient* and *effective* approach to constructing it. 
 
-[Construction Managers](https://youtu.be/jNgsSdRqsh0) play an important role in the built environment industry.  It is a role that spans from the early planning and development of projects, through project execution and delivery.  A Construction Manager who has a good understanding of the basics concepts of project management and control, and can apply their undertsanding early in project planning and development efforts increases the likelihood that the project will be a success.  The early planning and project development role of the Construction Manager is the priamry focus of a Built Environment Innovation Challenge.
+The early planning and project development role of the Construction Manager (in response to the owner's Request For Support, and in collaboration with the owner and designer) is the priamry focus of a Built Environment Innovation Challenge.
 
 ## Project Planning & Scheduling
 As introduced above, construction manager must understand the basic concepts of project management and control. Construction managers recognize the need for both project planning and scheduling, and why those two activities are different but dependent.  With a mastery of these basic concepts construction managers are ready for [estimating](http://www.wbdg.org/design-disciplines/cost-estimating) and scheduling techniques, selection of construction activities, the criteria for selecting a project scheduling approach, and the basic concepts of construction logic.  This type of information makes up an essential source of the non-graphical content contributed to the building information modelling done by the project delivery team on a high perfroming project.
