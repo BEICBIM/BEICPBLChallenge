@@ -61,6 +61,10 @@ Project activities can be grouped hierarchically within these four general level
 
 The next level down in the hierarchy of project planning is the *major or master activity*. These activities may range in duration from weeks to months. They are typically based upon major construction trades such as "steelworkers", or specification divisions such as "Concrete", or on subcontracted items such as "Sprinkler Systems".  Master activities are useful for breaking down the project into manageable pieces, which can then be allocated out to different memebers of the project delivery team (e.g. estimators, subcontractors, etc.) Simple bar charts based upon activities at roughly this level of detail may be generated from the buidling information modelling tool to help concisely explain the execution of project.
 
+## The Constructor's Deliverables
+
+Constructors will also post a response to the Request For Support (RFS) for open-source Planning and Project Development (PPD) posted by the owner that is similar to and complementary to the [Designer's](https://github.com/BEICOOP/BEICPBLChallenge/blob/master/Phase3/Stakeholders_Roles/Designer.md) deliverables.  In the case of design-build firms the designer and constructor are the same.
+
 See [Contribute.md](https://github.com/BEICBIM/BEICPBLChallenge/blob/master/Contribute.md) for information about contributing to this project repository.
 
 Content in the BEIC Project Based Learning Challenge repository is licensed as described in [License.md](https://github.com/BEICBIM/BEICPBLChallenge/blob/master/License.md).
