@@ -73,11 +73,14 @@ After a careful review of all the open source content posted by the owner (as we
 Be sure to request a time limit for responses to the RFI(s) from the owner and designer.  This is so that the owner and desiger has an understanding of when the construcor needs them, for a complete and timely response in support the owner's timeframe allotted for the PPD effort.  Review any responses the owner provides to the RFI(s) by the time requested, and publish an open source written response to the owners RFS by the time requested by the owner.  The RFS response should make it clear how the constructors' knowledge, skills, and abilities support the delivery of a solution that meets or exceeds owner-expressed requirements.
 
 ### 2. Assess the Preliminary Information Model Developed for Project Inception.
-Constructors must carefully review all available content in the designer's preliminary information model and provide the owner and designer a preliminary assessment of the following items:
+Constructors must carefully review all available content in the designer's preliminary information model and provide the owner and designer a summary of general planning assumptions and a preliminary assessment of the following items:
 
 #### a. Constructability
-#### b. Major Cost Drivers
-#### c. Major Schedule Drivers
+Tasks that are **not** realisticaly achievable in the time and space alloted, using readily available equipment, skills, or materials represent potential issues that make successful construction unlikely.  For example, a multi-story structre may not be realistic to construct in a location without sufficient maneuver area for a crane.   
+#### b. Main Cost Drivers
+Tasks or activities that may involve procurement of expensive materials, equipment, fixtures, furnishings, or systems can be among the major factors that influence project cost.  For example, installation of interior finishes can significantly effect overall cost depending on the kinds of finishes and materials chosen. Tasks or activities that involve mobilization of expensive equipment or require highly specialized technical, trade, or professional services should be considered here.  Medical or scientific equipment with extensive installation requirements are an example.
+#### c. Main Schedule Drivers
+Tasks or activities that need to be perfromed at specific times along a crticical path of related interdependent activities can all have significant influence on the overall schedule of the project.  For example, certain underground utility installation tasks and activities **must** be complete before paving activities planned for the same location can start.  Required procurements that have a long lead time to delivery can also influence the overall schedule of the project.  Large electrical or mechanical equipment like trasnformers, motors, or refregration systems can take weeks, months, or years from the time ordered to when it can be delivered for installation.  In some cases there may also time constraints imposed by local cultural, climatic, meteorological, or environmental conditions on when certain tasks or activities can be performed.  Events like local holidays and seasonal constraints can greatly effect the timing of tasks and overall project schedule.  
 
 
 See [Contribute.md](https://github.com/BEICBIM/BEICPBLChallenge/blob/master/Contribute.md) for information about contributing to this project repository.
