@@ -75,9 +75,9 @@ Be sure to request a time limit for responses to the RFI(s) from the owner and d
 ### 2. Assess the Preliminary Information Model Developed for Project Inception.
 Constructors must carefully review all available content in the designer's preliminary information model and provide the owner and designer a preliminary assessment of the following items:
 
-#### Constructability
-#### Major Cost Drivers
-#### Major Schedule Drivers
+#### a. Constructability
+#### b. Major Cost Drivers
+#### c. Major Schedule Drivers
 
 
 See [Contribute.md](https://github.com/BEICBIM/BEICPBLChallenge/blob/master/Contribute.md) for information about contributing to this project repository.
