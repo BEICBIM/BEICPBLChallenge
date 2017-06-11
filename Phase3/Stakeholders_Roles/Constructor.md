@@ -65,7 +65,7 @@ The next level down in the hierarchy of project planning is the *major or master
 ## The Constructor's Deliverables
 
 ### 1. Post a response to the Request For Support (RFS) for open-source Planning and Project Development (PPD) posted by the owner:
-Constructors will post a open source proposal in response to the Request For Support (RFS) for open-source Planning and Project Development (PPD) posted by the [owner'](https://github.com/BEICOOP/BEICPBLChallenge/blob/master/Phase3/Stakeholders_Roles/Owner.md) that is similar, informed by, and complementary to the [Designer's](https://github.com/BEICOOP/BEICPBLChallenge/blob/master/Phase3/Stakeholders_Roles/Designer.md) deliverables.  In the case of design-build firms the designer and constructor are the same.
+Constructors will post a open source proposal in response to the Request For Support (RFS) for open-source Planning and Project Development (PPD) posted by the [owner](https://github.com/BEICOOP/BEICPBLChallenge/blob/master/Phase3/Stakeholders_Roles/Owner.md) that is similar, informed by, and complementary to the [Designer's](https://github.com/BEICOOP/BEICPBLChallenge/blob/master/Phase3/Stakeholders_Roles/Designer.md) deliverables.  In the case of design-build firms the designer and constructor are the same.
 
 After a careful review of all the open source content posted by the owner (as well as any open source Request For Information (RFI) content that has been posted by designer) the constructor should also formulate, organize, and consolidate any questions the constructor has about the owners requirements (or the designer's response content) into a concise, organized and summarized RFI's.
 
