@@ -65,7 +65,12 @@ The next level down in the hierarchy of project planning is the *major or master
 
 ## The Constructor's Deliverables
 
-Constructors will also post a response to the Request For Support (RFS) for open-source Planning and Project Development (PPD) posted by the owner that is similar to and complementary to the [Designer's](https://github.com/BEICOOP/BEICPBLChallenge/blob/master/Phase3/Stakeholders_Roles/Designer.md) deliverables.  In the case of design-build firms the designer and constructor are the same.
+### 1. Post a response to the Request For Support (RFS) for open-source Planning and Project Development (PPD) posted by the owner:
+Constructors will also post a open source proposal in response to the Request For Support (RFS) for open-source Planning and Project Development (PPD) posted by the [owner'](https://github.com/BEICOOP/BEICPBLChallenge/blob/master/Phase3/Stakeholders_Roles/Owner.md) that is similar, informed by, and complementary to the [Designer's](https://github.com/BEICOOP/BEICPBLChallenge/blob/master/Phase3/Stakeholders_Roles/Designer.md) deliverables.  In the case of design-build firms the designer and constructor are the same.
+
+After a careful review of all the open source content posted by the owner (as well as any open source Request For Information (RFI) content that has been posted by designer) the constructor should also formulate, organize, and consolidate any questions the constructor has about the owners requirements (or the deisgner's response content) into a concise, organized and summarized RFI's.
+
+Be sure to request a time limit for responses to the RFI(s) from the owner and designer.  This is so that the owner and desiger has an understanding of when the construcor needs them, for a complete and timely response in support the owner's timeframe allotted for the PPD effort.  Review any responses the owner provides to the RFI(s) by the time requested, and publish an open source written response to the owners RFS by the time requested by the owner.  The RFS response should make it clear how the constructors' knowledge, skills, and abilities support the delivery of a solution that meets or exceeds owner-expressed requirements.    
 
 See [Contribute.md](https://github.com/BEICBIM/BEICPBLChallenge/blob/master/Contribute.md) for information about contributing to this project repository.
 
