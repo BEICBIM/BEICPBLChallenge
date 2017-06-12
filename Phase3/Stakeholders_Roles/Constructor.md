@@ -71,7 +71,7 @@ After a careful review of all the open source content posted by the owner (as we
 
 Be sure to request a time limit for responses to the RFI(s) from the owner and designer.  This is so that the owner and designer has an understanding of when the constructor needs them, for a complete and timely response in support the owner's timeframe allotted for the PPD effort.  Review any responses the owner provides to the RFI(s) by the time requested, and publish an open source written response to the owners RFS by the time requested by the owner.  The RFS response should make it clear how the constructors' knowledge, skills, and abilities support the delivery of a solution that meets or exceeds owner-expressed requirements.
 
-### 2. Post Assessment of the Preliminary Information Model Developed for Project Inception.
+### 2. Post an Assessment of the Preliminary Information Model Developed for Project Inception.
 Constructors must carefully review all available content in the designer's preliminary information model and provide the owner and designer a summary of general planning assumptions and post a preliminary open-source assessment of the following items:
 
 #### a. Constructability
