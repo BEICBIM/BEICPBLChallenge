@@ -1,7 +1,7 @@
 # The Constructor's Role in a Built Environment Innovation Challenge
 ![Louis Lafon Constructions Site MET](http://images.metmuseum.org/CRDImages/ph/web-large/DP161910.jpg)
 
-This content is intended for students who are exploring the role of a Constructor (or [Construction Manager](https://youtu.be/jNgsSdRqsh0)) as a part of a [Built Environment Innovation Challenge](https://github.com/BEICBIM/BEICPBLChallenge/blob/master/README.md).  [Designers](https://github.com/BEICOOP/BEICPBLChallenge/blob/master/Phase3/Stakeholders_Roles/Designer.md) and constructors are sometimes integral to the same organization, such as a Design-Build firm.  In the context of a built environment innovation challenge, constructors refer to those professionals that provide the essenetial services neccesary to *realize* a coordinated solution to owner [requirements](https://github.com/BEICOOP/BEICPBLChallenge/blob/master/Phase1/TOC.md).  These services include:
+This content is intended for students who are exploring the role of a Constructor (or [Construction Manager](https://youtu.be/jNgsSdRqsh0)) as a part of a [Built Environment Innovation Challenge](https://github.com/BEICBIM/BEICPBLChallenge/blob/master/README.md).  [Designers](https://github.com/BEICOOP/BEICPBLChallenge/blob/master/Phase3/Stakeholders_Roles/Designer.md) and constructors are sometimes integral to the same organization, such as a Design-Build firm.  In the context of a Built Environment Innovation Challenge, constructors refer to those professionals that provide the essential services necessary to *realize* a coordinated solution to owner [requirements](https://github.com/BEICOOP/BEICPBLChallenge/blob/master/Phase1/TOC.md).  These services include:
 * Planning
 * Permitting
 * Estimating
