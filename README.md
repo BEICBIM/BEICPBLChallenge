@@ -3,7 +3,7 @@
 # The Built Environment Innovation Challenge 
 ## A Project Based Learning Challenge Curriculum For Innovative Built Environment Venture Development.
 
-This free, open source challenege curriculum content (hosted in a [GitHub repository](https://github.com/BEICOOP/BEICPBLChallenge) to enable continnous, collaborative improvement) is intended to foster:
+This free, open source challenge curriculum content (hosted in a [GitHub repository](https://github.com/BEICOOP/BEICPBLChallenge) to enable continuous, collaborative improvement) is intended to foster:
 
 * Project based learning activity in the subject matter area of built environment innovation and entrepreneurship.
 * The community of students and professionals learning and working in this subject matter area.
@@ -30,7 +30,7 @@ The phases of a Built Environment Innovation Challenge are:
 * [Phase Six: Responding to the Driving Question About The Built Environment](https://github.com/BEICBIM/BEICPBLChallenge/blob/master/Phase6/TOC.md)
 * [Phase Seven: Summative Assessment](https://github.com/BEICBIM/BEICPBLChallenge/blob/master/Phase7/TOC.md)
 
-The content of this challange curriculum draws inspiration from [open source architecture projects](https://opensource.com/life/16/5/6-open-source-architecture-projects), the [National Institute of Building Sciences' Science Technology Engineering and Math (STEM) program for Sustainable Facilities and Infrastructure in Constrained Environments (SuFICE)](https://www.nibs.org/?page=stem), and [Integrating Project Delivery](http://www.wiley.com/WileyCDA/WileyTitle/productCd-0470587350.html) a primary text of resources and guidance from built environment industry professionals.
+The content of this challenge curriculum draws inspiration from [open source architecture projects](https://opensource.com/life/16/5/6-open-source-architecture-projects), the [National Institute of Building Sciences' Science Technology Engineering and Math (STEM) program for Sustainable Facilities and Infrastructure in Constrained Environments (SuFICE)](https://www.nibs.org/?page=stem), and [Integrating Project Delivery](http://www.wiley.com/WileyCDA/WileyTitle/productCd-0470587350.html) a primary text of resources and guidance from built environment industry professionals.
 
 See [Contribute.md](https://github.com/BEICBIM/BEICPBLChallenge/blob/master/Contribute.md) for information about contributing to this project repository.
 
