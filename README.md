@@ -3,7 +3,7 @@
 # The Built Environment Innovation Challenge 
 ## A Project Based Learning Challenge Curriculum For Innovative Built Environment Venture Development.
 
-This free, open source challenege curriculum content is intended to foster:
+This free, open source challenege curriculum content (hosted in a [GitHub repository](https://github.com/BEICOOP/BEICPBLChallenge) to enable continnous, collaborative improvement) is intended to foster:
 
 * Project based learning activity in the subject matter area of built environment innovation and entrepreneurship.
 * The community of students and professionals learning and working in this subject matter area.
