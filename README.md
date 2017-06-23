@@ -1,14 +1,14 @@
 ![TheArchitect](http://images.metmuseum.org/CRDImages/dp/web-large/DP869288.jpg)
 
 # The Built Environment Innovation Challenge 
-## A Project Based Learning Challenge Curriculum Through Innovative Built Environment Venture  Development.
+## A Project Based Learning Challenge Curriculum For Innovative Built Environment Venture Development.
 
 This free, open source challenege curriculum content is intended to foster:
 
 * Project based learning activity in the subject matter area of built environment innovation and entrepreneurship.
 * The community of students and professionals learning and working in this subject matter area.
 
-The built environment subject matter area refers to the wide range of human made facility and infrastructure systems and their interface and integration with the original system (i.e. the natural environment or creation). 
+The built environment subject matter area refers to the wide range of human made facility and infrastructure systems and their interface and integration with the original system (i.e. the natural environment or creation).
 
 The organization of this challenge curricula is inspired by the [practical 7 phase model](https://www.edutopia.org/blog/practical-pbl-design-amber-graeber) described by Amber Graeber on edutopia.org.  [Buck Institute for Education](http://www.bie.org/about/what_pbl) is another source of information on quality project based learning experiences. 
 
