@@ -1,10 +1,8 @@
 # Key Stakeholders & Roles
 
-1. [Owner](https://github.com/BEICBIM/BEICPBLChallenge/blob/master/Phase3/Stakeholders_Roles/Owner.md)
-2. [Architect](https://github.com/BEICBIM/BEICPBLChallenge/blob/master/Phase3/Stakeholders_Roles/Architect.md)
-3. [Construction Manager](https://github.com/BEICBIM/BEICPBLChallenge/blob/master/Phase3/Stakeholders_Roles/ConstructionManager.md)
-4. [Engineer](https://github.com/BEICBIM/BEICPBLChallenge/blob/master/Phase3/Stakeholders_Roles/Engineer.md)
-5. [Designer](https://github.com/BEICBIM/BEICPBLChallenge/blob/master/Phase3/Stakeholders_Roles/Designer.md)
+1. [Owner](https://github.com/BEICOOP/BEICPBLChallenge/blob/master/Phase3/Stakeholders_Roles/Owner.md)
+2. [Designer](https://github.com/BEICBIM/BEICPBLChallenge/blob/master/Phase3/Stakeholders_Roles/Designer.md)
+3. [Constructor](https://github.com/BEICOOP/BEICPBLChallenge/blob/master/Phase3/Stakeholders_Roles/Constructor.md)
 
 See [Contribute.md](https://github.com/BEICBIM/BEICPBLChallenge/blob/master/Contribute.md) for information about contributing to this project repository.
 
