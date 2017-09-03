@@ -16,7 +16,7 @@ For a successful outcome you will need to present preliminary deliverables of a 
 
 2. Is used to communicate to permitting agencies for approval & local stakeholders for comment.
 
-3. Integrates viability, sufficiency, functionality, aesthetics, resilience, and sustainability. 
+3. Integrates viability, sufficiency, functionality, aesthetics, resilience, and sustainability, consistent with owner values. 
 
 For a *very* successful outcome, your team will translate your successful outcome into a draft collaborative agreement to actually fund and execute your built environment solution.  
 
