@@ -7,7 +7,7 @@ Open Source projects in repositories managed by BEIC generally follow the "GitHu
 Please check this content out at the URL below:
 https://guides.github.com/activities/contributing-to-open-source/
 
-## Please ensure your pull request adhere to the following:
+## Please ensure your pull request adheres to the following:
 
 * Search previous suggestions and existing content in the reporsitory before making a new one, as yours may be a duplicate.
 * Make sure your content is useful and hyperlinks are correct and helpful before submitting.
@@ -18,6 +18,7 @@ https://guides.github.com/activities/contributing-to-open-source/
 * New headings or improvements to the existing headings are welcome.
 * Check your spelling and grammar.
 * The pull request and commit should have a concise, descrpitive, and useful title.
+* All content in your pull request should be consistent with the [Contributor Covenant](https://www.contributor-covenant.org/version/1/4/code-of-conduct.html).  
 
 Thanks for your interest and use this content as your guide for being an effective contributor on open source built environment innovation projects.
 
