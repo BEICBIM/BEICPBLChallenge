@@ -1,6 +1,6 @@
 # Phase One: A Driving Question Question About The Built Environment
 
-Built environment innovations, large or small, start with a expressed **requirement**. In this context, a requirement refers to a need or a want for repair, maintenance, modernization, re-purposing, or an entirely new improvement at an [owner's](https://github.com/BEICBIM/BEICPBLChallenge/blob/master/Phase3/Stakeholders_Roles/Owner.md) property location. It can be expressed (or communicated) through content such as text, diagrams, maps, etc. that concisely captures the "5W's":
+Built environment innovations, large or small, start with a expressed **requirement**.  In the built environment context, an expressed requirement refers to a simply documented need or a want for repair, maintenance, modernization, re-purposing, or an entirely new improvement at an [owner's](https://github.com/BEICBIM/BEICPBLChallenge/blob/master/Phase3/Stakeholders_Roles/Owner.md) property location. It is essentially a documented need statement in its most primitive form and can be expressed (or communicated) through content such as text, diagrams, maps, etc. that concisely captures the "5W's":
 
 * Where is the requirement?
 * What is the requirement?
@@ -8,7 +8,7 @@ Built environment innovations, large or small, start with a expressed **requirem
 * When was the requirement identified or discovered?
 * Why is it a requirement?
 
-Students or members of the public can share 5W's about requirements on [BEIC's requirements input form](https://goo.gl/forms/foLPLOC3hTcrL2bp1). This content informs **"the driving question"** that initiates a Built Environment Innovation Challenge:
+Built environment [stakeholders](http://sebokwiki.org/wiki/Stakeholder_(glossary)) can share 5W's about requirements on [BEIC's requirements input form](https://goo.gl/forms/foLPLOC3hTcrL2bp1). This content informs **"the driving question"** that initiates a Built Environment Innovation Challenge:
 
 **What are three viable alternatives (choices or possible solutions) you think would meet the expressed requirement and what do you think makes them viable and preferable to a "do-nothing" alternative?**
 
