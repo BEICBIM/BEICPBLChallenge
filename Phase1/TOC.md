@@ -8,7 +8,7 @@ Built environment innovations, large or small, start with a expressed **requirem
 * When was the requirement identified or discovered?
 * Why is it a requirement?
 
-Built environment [stakeholders](http://sebokwiki.org/wiki/Stakeholder_(glossary)) can share 5W's about requirements on [BEIC's requirements input form](https://goo.gl/forms/foLPLOC3hTcrL2bp1). This content informs **"the driving question"** that initiates a Built Environment Innovation Challenge:
+Built environment [stakeholders](http://sebokwiki.org/wiki/Stakeholder_(glossary)) can share 5W's about requirements in the [expressed requirements section](https://github.com/BEICOOP/BEICPBLChallenge/blob/master/Phase1/ExpressedReqs/README&TOC.md) of this repository. This content informs **"the driving question"** that initiates a Built Environment Innovation Challenge:
 
 **What are three viable alternatives (choices or possible solutions) you think would meet the expressed requirement and what do you think makes them viable and preferable to a "do-nothing" alternative?**
 
