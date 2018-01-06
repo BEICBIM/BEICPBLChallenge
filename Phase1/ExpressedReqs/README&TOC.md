@@ -30,7 +30,7 @@ Identify when the requirement was first discovered and when a complete and usabl
 ### 5. Why is it a requirement?
 Explain why doing nothing to meet the requirement is not an acceptable choice.
 
-
+____
 See [Contribute.md](https://github.com/BEICOOP/BEICPBLChallenge/blob/master/Contribute.md) for more information about contributing to this project repository.
 
 Content in the BEIC Project Based Learning Challenge repository is licensed as described in [License.md](https://github.com/BEICOOP/BEICPBLChallenge/blob/master/License.md).
