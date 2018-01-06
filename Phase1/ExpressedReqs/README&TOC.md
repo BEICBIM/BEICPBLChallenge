@@ -18,7 +18,7 @@ Express the desired result or effect that establishes the requirement.  (e.g. "I
 * New Improvements
 #### c. Identify a target price or budget constraints to mee the requirement:
 This is an initial quantitative target price for the solution that meets the requirement or a budgetary constraint that the solution must stay within.  It should be expressed in a recognized value unit (e.g. U.S. Dollars, Mexican Pesos, Canadian Dollars, Bitcoin, Ethereum, Litecoin, etc.). Be sure to provide as much break-out detail as possible.  (e.g. fixed, variable, and recurring items and amounts.)
-### d. Identify any other details about the requirement that you think are relevant.
+#### d. Identify any other details about the requirement that you think are relevant.
 Explain information that from experienced judgement would having a bearing on or connection with meeting the requirement successfully.  (e.g. other stakeholders, desirable and undesirable characteristics, adjacencies, etc.)
 
 ### 3. Who's expressing or has an interest in the requirement?
@@ -30,7 +30,8 @@ Identify when the requirement was first discovered and when a complete and usabl
 ### 5. Why is it a requirement?
 Explain why doing nothing to meet the requirement is not an acceptable choice.
 
-See [Contribute.md](https://github.com/BEICOOP/BEICPBLChallenge/blob/master/Contribute.md) for information about contributing to this project repository.
+
+See [Contribute.md](https://github.com/BEICOOP/BEICPBLChallenge/blob/master/Contribute.md) for more information about contributing to this project repository.
 
 Content in the BEIC Project Based Learning Challenge repository is licensed as described in [License.md](https://github.com/BEICOOP/BEICPBLChallenge/blob/master/License.md).
 
