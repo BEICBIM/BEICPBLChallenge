@@ -34,7 +34,7 @@ The content of this challenge curriculum draws inspiration from:
 
 * [Open source architecture projects.](https://opensource.com/life/16/5/6-open-source-architecture-projects)
 * The [National Institute of Building Sciences' Science Technology Engineering and Math (STEM) program for Sustainable Facilities and Infrastructure in Constrained Environments (SuFICE).](https://www.nibs.org/?page=stem)
-* [Integrating Project Delivery.](http://www.wiley.com/WileyCDA/WileyTitle/productCd-0470587350.html) (-a primary text of resources and guidance from built environment industry professionals.)
+* [Integrating Project Delivery.](https://lccn.loc.gov/2016041719) (-a primary text of resources and guidance from built environment industry professionals.)
 * The [Systems Engineering Body of Knowledge (SEBoK)](http://sebokwiki.org/wiki/Guide_to_the_Systems_Engineering_Body_of_Knowledge_(SEBoK))
 
 See [Contribute.md](https://github.com/BEICBIM/BEICPBLChallenge/blob/master/Contribute.md) for information about contributing to this project repository.
