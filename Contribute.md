@@ -13,7 +13,7 @@ https://guides.github.com/activities/contributing-to-open-source/
 * Make sure your content is useful and hyperlinks are correct and helpful before submitting.
 * Make an individual pull requests for *each* discrete suggested contribution.  Do not bundle numerous contributions together.
 * Titles should be capitalized.
-* Use format consistent with the existing format.
+* Use format consistent with the existing format in this repository.
 * Link list additions should be added to the bottom of the relevant section.
 * New headings or improvements to the existing headings are welcome.
 * Check your spelling and grammar.
