@@ -14,10 +14,14 @@ The planning and virtual development process employed in a Built Environment Inn
 
 ### Business Analysis:
 
-This analysis initiates the life cycle of the system of interest by defining the problem domain and potential opportunity for built environment innovation.  This process captures important information, such as identifying:
+This activity initiates the life cycle of the system of interest by defining the problem domain and potential opportunity for built environment innovation.  This process captures important information, such as identifying:
 * The major [stakeholders](http://sebokwiki.org/wiki/Stakeholder_(glossary)) involved.  
 * The environmental conditions and constraints that bound the solution domain.  
 This enables an integrated collaborative project team to develop preliminary life cycle concepts for the delivery, operation & maintenance, and retirement of a built environment system.
+
+### Stakeholder Needs and Requirements Definition
+
+In this activity the team conducts stakeholder analysis, considers boundaries, examines scenarios and analyzes functions in order to identify and define requirements.  Some requirements are purely functional (what must the built environment system solution actually achieve), others are non-functional and some deal with legal or environmental considerations.  The team must also understand and develop appropriate metrics and measures of performance in order to refine and breakdown the expressed requirement into "good" more-specific requirements.  These are the preliminary steps in developing a Value System or Value Model that helps capture and communicate this aggregation of requirements and is useful later for analysis of built environment solution alternatives and decision making.
 
 ## For a Successful Outcome...
 
