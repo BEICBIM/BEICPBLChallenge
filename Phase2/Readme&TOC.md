@@ -8,6 +8,10 @@ In this phase, Built Environment Innovation Challenge participants form integrat
 
 3. [Constructors](https://github.com/BEICOOP/BEICPBLChallenge/blob/master/Phase3/Stakeholders_Roles/Constructor.md) (e.g. construction managers and trades, engineers, landscapers, mechanical & electrical technicians, plumbers).  
 
+## The Process...
+
+The planning and virtual development process employed in a Built Environment Innovation Challenge, in the pursuit of a viable built environment solution, essentially follows a basic systems development process described by INCOSE.
+
 ## For a Successful Outcome...
 
 For a successful outcome you will need to present preliminary deliverables of a built environment solution that:
