@@ -1,6 +1,6 @@
 # Phase Two: A Built Environment Requirement & Opportunity for Innovation
 
-The challenge for students on integrated collaborative project teams is to plan and virtually develop a viable built environment solution that addresses the driving question and aspires to meet the expressed requirement.  Teams will consist of:
+In this phase, Built Environment Innovation Challenge participants form integrated collaborative project teams around actual expressed requirements for built environment improvements.  The challenge for students on integrated collaborative project teams is to plan and virtually develop a viable built environment solution that addresses the driving question and aspires to meet the expressed requirement.  Teams will consist of:
 
 1. Real property [owner](https://github.com/BEICOOP/BEICPBLChallenge/blob/master/Phase3/Stakeholders_Roles/Owner.md)’s representatives (e.g. land, facilities, and infrastructure managers for public or private owners)
 
