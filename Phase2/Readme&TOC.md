@@ -10,7 +10,7 @@ In this phase, [Built Environment Innovation Challenge](https://github.com/BEICO
 
 ## The Process...
 
-The planning and virtual development process employed in a Built Environment Innovation Challenge, in the pursuit of a viable built environment solution, essentially follows a basic systems development process described by INCOSE.
+The planning and virtual development process employed in a Built Environment Innovation Challenge, in the pursuit of a viable built environment solution, is essentially a basic [systems engineering](http://sebokwiki.org/wiki/Introduction_to_Systems_Engineering) development process:
 
 ## For a Successful Outcome...
 
