@@ -10,7 +10,14 @@ In this phase, [Built Environment Innovation Challenge](https://github.com/BEICO
 
 ## The Process...
 
-The planning and virtual development process employed in a Built Environment Innovation Challenge, in the pursuit of a viable built environment solution, is essentially a basic [Systems Engineering](http://sebokwiki.org/wiki/Introduction_to_Systems_Engineering) development process.  The development approach elaborates on a “primitive need” (for a solution to the expresed requirement) through a set of Systems Engineering development activities.  Although these activities are presented below in a sequential listing they are not neccesarily sequential in nature.  Rather, each activity can feed information forward or feed information back to other system development activities.
+The planning and virtual development process employed in a Built Environment Innovation Challenge, in the pursuit of a viable built environment solution, is essentially a basic [Systems Engineering](http://sebokwiki.org/wiki/Introduction_to_Systems_Engineering) development process.  The development approach elaborates on a “primitive need” (expresed requirement) through a set of Systems Engineering development activities.  Although these activities are presented below in a sequential listing they are not neccesarily sequential in nature.  Rather, each activity can feed information forward or feed information back to other system development activities.
+
+### Business Analysis:
+
+This analysis initiates the life cycle of the system of interest by defining the problem domain and potential opportunity for built environment innovation.  This process captures important information, such as identifying:
+* The major [stakeholders](http://sebokwiki.org/wiki/Stakeholder_(glossary)) involved.  
+* The environmental conditions and constraints that bound the solution domain.  
+This enables an integrated collaborative project team to develop preliminary life cycle concepts for the delivery, operation & maintenance, and retirement of a built environment system.
 
 ## For a Successful Outcome...
 
