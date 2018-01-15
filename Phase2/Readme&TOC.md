@@ -33,8 +33,12 @@ The most important aspect of this activity is to clarify the teams understanding
 
 During this activity the team will:
 * Create and establish alternative architectures for the built environment solution through several views and models.
-* Assess the properties of the alternatives (supported by the System Analysis Process). 
+* Assess the properties of the alternatives (supported by [System Analysis](http://sebokwiki.org/wiki/System_Analysis)). 
 * Select appropriate technological or technical system elements that compose the built environment solution.
+
+### Design Definition
+
+In this activity the team addresses all implementation technologies and their assimilation such as mechanical fixtures and equipment, electronical and electronic fixtures and equipment, software, chemical equipment, human operations, and/or services, etc.  Design provides the "implement-to" level of the definition, such as [Building Information Modeling](https://en.wikipedia.org/wiki/Building_information_modeling) (BIM) content and other kinds of detailed design content.
 
 ## For a Successful Outcome...
 
