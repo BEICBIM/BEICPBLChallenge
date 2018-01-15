@@ -1,6 +1,6 @@
 # Phase Two: A Built Environment Requirement & Opportunity for Innovation
 
-In this phase, [Built Environment Innovation Challenge](https://github.com/BEICOOP/BEICPBLChallenge) participants form integrated collaborative project teams around actual expressed requirements for built environment improvements.  The challenge for students on integrated collaborative project teams is to plan and virtually develop a viable built environment solution that addresses the driving question and aspires to meet the expressed requirement.  Teams will consist of:
+In this phase, [Built Environment Innovation Challenge](https://github.com/BEICOOP/BEICPBLChallenge) participants form integrated collaborative project teams around the actual "primitive needs" (expressed requirements) for built environment improvements.  The challenge for students on integrated collaborative project teams is to plan and virtually develop a viable built environment solution that addresses the driving question and aspires to meet the expressed requirement.  Teams will consist of:
 
 1. Real property [owner](https://github.com/BEICOOP/BEICPBLChallenge/blob/master/Phase3/Stakeholders_Roles/Owner.md)’s representatives (e.g. land, facilities, and infrastructure managers for public or private owners)
 
@@ -22,6 +22,12 @@ This enables an integrated collaborative project team to develop preliminary lif
 ### Stakeholder Needs and Requirements Definition
 
 In this activity the team conducts stakeholder analysis, considers boundaries, examines scenarios and analyzes functions in order to identify and define requirements.  Some requirements are purely functional (what must the built environment system solution actually achieve), others are non-functional and some deal with legal or environmental considerations.  The team must also understand and develop appropriate metrics and measures of performance in order to refine and breakdown the expressed requirement into "good" more-specific requirements.  These are the preliminary steps in developing a Value System or Value Model that helps capture and communicate this aggregation of requirements and is useful later for analysis of built environment solution alternatives and decision making.
+
+### Built Environment System Requirements Definition
+
+In this activity the team establishes what is "in" the built environment solution system.  The team also determins what other systems will the "new" built environment solution system will interact with and how.  In conducting this activity the team acheives a thorough understanding the of problem space and can better articulate the range of associated requirements with the expressed requirement.
+
+The most important aspect of this activity is to clarify the teams understanding of the problem(s) to be solved and desireble outcomes or built environment system "emergences" to be acheived.  In this activity the team uses system engineering techniques to clarify the needs and refine requirements.  The objective for the team in this activity is articulating what the owner (and other key stakeholders) expect from the built environment system solution.  This is critical in defining requirements and the overall conceptual solution design.  This activity is also where the team gains knowledge of the stakeholders, what they stand to gain, and what they can invest in a built environment solution.
 
 ## For a Successful Outcome...
 
