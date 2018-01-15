@@ -38,7 +38,7 @@ During this activity the team will:
 
 ### Design Definition
 
-In this activity the team addresses all implementation technologies and their assimilation such as mechanical fixtures and equipment, electronical and electronic fixtures and equipment, software, chemical equipment, human operations, and/or services, etc.  Design provides the "implement-to" level of the definition, such as [Building Information Modeling](https://en.wikipedia.org/wiki/Building_information_modeling) (BIM) content and other kinds of detailed design content.
+In this activity the team addresses all implementation technologies and their assimilation such as mechanical fixtures and equipment, electronical and electronic fixtures and equipment, software, chemical equipment, human operations, and/or services, etc.  Design provides the "implement-to" level of definition, such as preliminary [Building Information Modeling](https://en.wikipedia.org/wiki/Building_information_modeling) (BIM) content and other kinds of detailed design content.
 
 ### Built Environment Solution System Analysis
 
@@ -46,13 +46,11 @@ The team analyzes the entire built environment system solution or parts of the s
 
 ### BIM Simulation and Evaluation
 
-In this activity the team uses simulation techniques, as applicable, to determine if the built environment model under consideration meets (at least virtually) the requirements, and if its performance satisfies (at least virtually) the usability needs of both the owner and end users.
+In this activity the team uses simulation techniques, as applicable, to demonstrate if the built environment model content under consideration can meet (at least virtually) the requirements, and if its performance can satisfy (at least virtually) the usability needs of both the owner and end users.
 
 ### Lifecycle Considerations
 
-In this activity the team activity establishes requirements to operate the proposed built environment solution, and the means to monitor the assocated services and built environment solution system performance.  In order to sustain the solution the team also identifies and analyzes operational anomalies in relation to agreements, stakeholder requirements and organizational constraints.
-
-
+In this activity the team establishes notional requirements to operate the proposed built environment solution, and the means to monitor the assocated services and built environment solution system performance.  In order to sustain the solution the team also identifies and analyzes operational anomalies in relation to existing agreements, stakeholder requirements and organizational constraints.
 
 ## For a Successful Outcome...
 
