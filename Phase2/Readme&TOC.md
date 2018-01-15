@@ -10,7 +10,7 @@ In this phase, [Built Environment Innovation Challenge](https://github.com/BEICO
 
 ## The Process...
 
-The planning and virtual development process employed in a Built Environment Innovation Challenge, in the pursuit of a viable built environment solution, is essentially a basic [systems engineering](http://sebokwiki.org/wiki/Introduction_to_Systems_Engineering) development process:
+The planning and virtual development process employed in a Built Environment Innovation Challenge, in the pursuit of a viable built environment solution, is essentially a basic [Systems Engineering](http://sebokwiki.org/wiki/Introduction_to_Systems_Engineering) development process.  The development approach elaborates on a “primitive need” (for a solution to the expresed requirement) through a set of Systems Engineering development activities.  Although these activities are presented below in a sequential listing they are not neccesarily sequential in nature.  Rather, each activity can feed information forward or feed information back to other system development activities.
 
 ## For a Successful Outcome...
 
