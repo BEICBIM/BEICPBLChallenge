@@ -48,6 +48,12 @@ The team analyzes the entire built environment system solution or parts of the s
 
 In this activity the team uses simulation techniques, as applicable, to determine if the built environment model under consideration meets (at least virtually) the requirements, and if its performance satisfies (at least virtually) the usability needs of both the owner and end users.
 
+### Lifecycle Considerations
+
+In this activity the team activity establishes requirements to operate the proposed built environment solution, and the means to monitor the assocated services and built environment solution system performance.  In order to sustain the solution the team also identifies and analyzes operational anomalies in relation to agreements, stakeholder requirements and organizational constraints.
+
+
+
 ## For a Successful Outcome...
 
 For a successful outcome you will need to present preliminary deliverables of a built environment solution that:
