@@ -29,6 +29,13 @@ In this activity the team establishes what is "in" the built environment solutio
 
 The most important aspect of this activity is to clarify the teams understanding of the problem(s) to be solved and desireble outcomes or built environment system "emergences" to be acheived.  In this activity the team uses system engineering techniques to clarify the needs and refine requirements.  The objective for the team in this activity is articulating what the owner (and other key stakeholders) expect from the built environment system solution.  This is critical in defining requirements and the overall conceptual solution design.  This activity is also where the team gains knowledge of the stakeholders, what they stand to gain, and what they can invest in a built environment solution.
 
+### Architecture Definition
+
+During this activity the team will:
+* Create and establish alternative architectures for the built environment solution through several views and models.
+* Assess the properties of the alternatives (supported by the System Analysis Process). 
+* Select appropriate technological or technical system elements that compose the built environment solution.
+
 ## For a Successful Outcome...
 
 For a successful outcome you will need to present preliminary deliverables of a built environment solution that:
