@@ -40,6 +40,10 @@ During this activity the team will:
 
 In this activity the team addresses all implementation technologies and their assimilation such as mechanical fixtures and equipment, electronical and electronic fixtures and equipment, software, chemical equipment, human operations, and/or services, etc.  Design provides the "implement-to" level of the definition, such as [Building Information Modeling](https://en.wikipedia.org/wiki/Building_information_modeling) (BIM) content and other kinds of detailed design content.
 
+### Built Environment Solution System Analysis
+
+The team analyzes the entire built environment system solution or parts of the system quantitatively in this activity.  This activity supports reliable and objective trade-off studies also performed by the team during this activity.  An essential value of this actvity is bringing order to an otherwise chaotic process of decision-making among built environment system solution alternatives.  The team will learn several different decision-support methodologies along with their capabilities and limitations during this activity as well.
+
 ## For a Successful Outcome...
 
 For a successful outcome you will need to present preliminary deliverables of a built environment solution that:
