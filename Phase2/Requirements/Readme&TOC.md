@@ -1,0 +1,14 @@
+# Built Environment Requirements
+This section of the Built Environment Innovation Challenge repository is an (primarily, but not necessarily limitied to) an aggregation of expressed built environment requirements posted as soliciations on [Federal Business Opportuities (FBO)](https://www.fbo.gov/).  The FBO solcitiations aggregated below are ["Set Aside Coded"](https://www.fbo.gov/index?static=faqs&s=getstart&mode=list&tab=list&tabmode=list#q3a-13) opportunities classified as "construction of structures and facilities" or "maintenance, repair, and alteration of real property". 
+
+## 2018
+### January
+* [Glass Wall Instalation](https://www.fbo.gov/index?s=opportunity&mode=form&id=f8fe65a4fd4173a845f8f0c94d68909b&tab=core&_cview=1)
+* [Replace double doors and frames in Cordova, Alaska](https://www.fbo.gov/index?s=opportunity&mode=form&id=bf41b8836310354a0d28a635d1f3f9e0&tab=core&_cview=0)
+* [Real property repair, maintenance and minor construction for Army installations on the Islands of Oahu and Hawaii](https://www.fbo.gov/index?s=opportunity&mode=form&id=8a3066ac1e940203cab4dcce113918d9&tab=core&_cview=0)
+* [Repair Termite Damage](https://www.fbo.gov/index?s=opportunity&mode=form&id=c4daf8dc9e87d11c8444bf9e8741c3e7&tab=core&_cview=1)
+* [Modernization of Elevators](https://www.fbo.gov/index?s=opportunity&mode=form&id=38c769c9d47c615a032b268fbdc89578&tab=core&_cview=1)
+* [Road Maintenance](https://www.fbo.gov/index?s=opportunity&mode=form&id=1f7cb1a9017a6de5ef94d235ad71427e&tab=core&_cview=0)
+* [Flag Pole Installation](https://www.fbo.gov/index?s=opportunity&mode=form&id=346bf62329054d79e8ff5861598f9923&tab=core&_cview=0)
+* [Modular Small Arms Range](https://www.fbo.gov/index?s=opportunity&mode=form&id=a43ffd240467a4cc8107edf32bc2aa44&tab=core&_cview=1)
+* [Water Tower Repair](https://www.fbo.gov/index?s=opportunity&mode=form&id=1af5bac47a2964799af152c6f0ff4a20&tab=core&_cview=1)
