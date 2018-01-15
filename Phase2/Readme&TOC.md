@@ -44,6 +44,10 @@ In this activity the team addresses all implementation technologies and their as
 
 The team analyzes the entire built environment system solution or parts of the system quantitatively in this activity.  This activity supports reliable and objective trade-off studies also performed by the team during this activity.  An essential value of this actvity is bringing order to an otherwise chaotic process of decision-making among built environment system solution alternatives.  The team will learn several different decision-support methodologies along with their capabilities and limitations during this activity as well.
 
+### BIM Simulation and Evaluation
+
+In this activity the team uses simulation techniques, as applicable, to determine if the built environment model under consideration meets (at least virtually) the requirements, and if its performance satisfies (at least virtually) the usability needs of both the owner and end users.
+
 ## For a Successful Outcome...
 
 For a successful outcome you will need to present preliminary deliverables of a built environment solution that:
