@@ -4,9 +4,9 @@ The challenge for students on integrated collaborative project teams is to plan 
 
 1. Real property [owner](https://github.com/BEICOOP/BEICPBLChallenge/blob/master/Phase3/Stakeholders_Roles/Owner.md)’s representatives (e.g. land, facilities, and infrastructure managers for public or private owners)
 
-2. Designers (e.g. architects, engineers, planners, and artists)
+2. [Designers](https://github.com/BEICOOP/BEICPBLChallenge/blob/master/Phase3/Stakeholders_Roles/Designer.md) (e.g. architects, engineers, planners, and artists)
 
-3. Constructors (e.g. construction managers and trades, engineers, landscapers, mechanical & electrical technicians, plumbers).  
+3. [Constructors](https://github.com/BEICOOP/BEICPBLChallenge/blob/master/Phase3/Stakeholders_Roles/Constructor.md) (e.g. construction managers and trades, engineers, landscapers, mechanical & electrical technicians, plumbers).  
 
 ## For a Successful Outcome...
 
