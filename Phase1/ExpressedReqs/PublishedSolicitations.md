@@ -1,5 +1,5 @@
 # Published Solicitations for Built Environment Improvements
-This section of the Built Environment Innovation Challenge repository is an (primarily, but not necessarily limitied to) aggregation of expressed built environment requirements posted as soliciations on [Federal Business Opportuities (FBO)](https://www.fbo.gov/).  The FBO solcitiations aggregated below are ["Set Aside Coded"](https://www.fbo.gov/index?static=faqs&s=getstart&mode=list&tab=list&tabmode=list#q3a-13) opportunities classified as "construction of structures and facilities" or "maintenance, repair, and alteration of real property". 
+This section of the Built Environment Innovation Challenge repository is an aggregation of expressed built environment requirements.  It is intended for use for educational purposes in conjunction with a Built Environment Innovation Challeng project based learning experience.  The lists complied here primarily draw from (but aren necessarily limited to) soliciation content posted as on [Federal Business Opportuities (FBO)](https://www.fbo.gov/).  The FBO solcitiations aggregated below are typically ["Set Aside Coded"](https://www.fbo.gov/index?static=faqs&s=getstart&mode=list&tab=list&tabmode=list#q3a-13) opportunities classified as "construction of structures and facilities" or "maintenance, repair, and alteration of real property". 
 
 ## 2018
 ### January
