@@ -11,7 +11,7 @@ This section of the Built Environment Innovation Challenge repository is an aggr
 * [Road Maintenance](https://www.fbo.gov/index?s=opportunity&mode=form&id=1f7cb1a9017a6de5ef94d235ad71427e&tab=core&_cview=0)
 * [Flag Pole Installation](https://www.fbo.gov/index?s=opportunity&mode=form&id=346bf62329054d79e8ff5861598f9923&tab=core&_cview=0)
 * [Modular Small Arms Range](https://www.fbo.gov/index?s=opportunity&mode=form&id=a43ffd240467a4cc8107edf32bc2aa44&tab=core&_cview=1)
-* [Water Tower Repair](https://www.fbo.gov/index?s=opportunity&mode=form&id=1af5bac47a2964799af152c6f0ff4a20&tab=core&_cview=1)
+* [Water Tower Repair](https://github.com/BEICOOP/BEICPBLChallenge/blob/master/Phase1/ExpressedReqs/20180105_VA_H2Otower.md)
 
 See [Contribute.md](https://github.com/BEICBIM/BEICPBLChallenge/blob/master/Contribute.md) for information about contributing to this project repository.
 
