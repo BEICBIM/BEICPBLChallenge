@@ -16,7 +16,7 @@ Express the desired result or effect that establishes the requirement.  (e.g. "I
 * Modernization
 * Re-purposing (and/or demolition)
 * New Improvements
-#### c. Identify a target price or budget constraints to mee the requirement:
+#### c. Identify a target price or budget constraints to meet the requirement:
 This is an initial quantitative target price for the solution that meets the requirement or a budgetary constraint that the solution must stay within.  It should be expressed in a recognized value unit (e.g. U.S. Dollars, Mexican Pesos, Canadian Dollars, Bitcoin, Ethereum, Litecoin, etc.). Be sure to provide as much break-out detail as possible.  (e.g. fixed, variable, and recurring items and amounts.)
 #### d. Identify any other details about the requirement that you think are relevant.
 Explain information that from experienced judgement would having a bearing on or connection with meeting the requirement successfully.  (e.g. other stakeholders, desirable and undesirable characteristics, adjacencies, etc.)
