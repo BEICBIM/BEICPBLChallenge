@@ -54,7 +54,7 @@ In this activity the team establishes notional requirements to operate the propo
 
 ## For a Successful Outcome...
 
-For a successful outcome you will need to present preliminary deliverables of a built environment solution that:
+For a successful outcome you will need to present a preliminary deliverable such as a request for proposal, quotation, or integrated team for development of your built environment solution that:
 
 1. Captures the expressed requirements and criteria for meeting them as well as addresses viability from a life-cycle perspective.
 
